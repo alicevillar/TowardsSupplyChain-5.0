@@ -2,12 +2,9 @@
  
 <h1>Towards Supply Chain 5.0: redesigning supply chains as resilient, sustainable, and human-centric systems in a post-pandemic world </h1>
 
-
+<p>
 >This is the official repository for the paper: "Towards Supply Chain 5.0: redesigning supply chains as resilient, sustainable, and human-centric systems in a post-
->pandemic world". This study employed the use of VOS Viewer, a software tool for constructing and visualizing bibliometric networks. VOS Viewer interface allows for 
->loading and exporting information from many sources. We obtained papers from three databases: Dimensions, SCOPUS, and Web of Science. With VOSviewer, we could display 
->bibliometric network mappings to visualize important articles, leading authors and countries, influential journals, current research topics, and hot trends in the 
->field. We performed the following bibliometric research methods:
+>pandemic world". This article performs a bibliometric study followed by a systematic literature review to analyze the published literature landscape and presents a study of how Industry 5.0 can enable supply chain evaluation and optimization in manufacturing processes, helping to enhance supply chain resilience.
 
  
 <h1>Table of Contents</h1>
