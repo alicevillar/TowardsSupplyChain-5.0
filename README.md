@@ -14,7 +14,7 @@
 
 <!-- TOC -->
 - [1. Overview](#1-overview)
-- [2. Architecture](#2-architecture) 
+- [2. Research Questions](#2-research-questions) 
     - [2.1. Monolithic Architecture](#21-monolithic-architecture)
     - [2.2. Microservice Architecture](#22-microservice-architecture)
 - [3. Project Interface](#3-project-interface)
@@ -39,12 +39,15 @@
  
 ## 1. Overview 
 
-This API, called SFA (Space Fan Art), is an API created with Flask REST-Plus with two Prototypes: a monolithic architecture and a microservice architecture. [Astronomy Picture Of The Day (APOD)](https://api.nasa.gov/), which is a NASA open API that returns the picture of the day, has been used as a model thoughout the development of both Prototypes:  
+ This article performs a bibliometric study followed by a systematic literature review to analyze the published literature landscape and presents a study of how Industry 5.0 can enable supply chain evaluation and optimization in manufacturing processes, helping to enhance supply chain resilience. Through this mixed approach, which incorporates both qualitative and quantitative methods, this paper analyzes the novel concept of Supply Chain 5.0, identifying its fundamental constructs and ongoing trends. In addition, we propose a conceptual framework to understand and model Supply Chain 5.0 as sustainable, resilient, and human-centric. Our findings can benefit and empower both research and practice. While practitioners can use the results to guide investment decisions, scholars may use them to better understand how Industry 5.0 can help redesign future supply chains. 
  
-:arrow_forward: In the monolithic architecture, APOD was used as an API model in various aspects, such as user authorisation key and rate limits. 
-<br>
-:arrow_forward:In the microservice architecture, SFA-API is connected with APOD. Thus, our microservive returns a picture that comes directly from APOD. 
-
 <br> 
  
 ## 2. Architecture 
+
+As a guiding framework for our research, we answer the following research questions (RQs):  
+ 
+•	RQ1- What does the fifth industrial revolution mean in the supply chain context? 
+•	RQ2 – What are the major topics and associated literature related to the pillars of Supply Chain 5.0?
+•	RQ3 - What would a Supply Chain 5.0 conceptual framework look like?
+•	RQ4 - What is the future research agenda related to Supply Chain 5.0? 
