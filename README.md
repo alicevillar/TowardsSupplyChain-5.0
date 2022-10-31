@@ -40,7 +40,7 @@
 ## 2. Research Questions  
  <br> 
 As a guiding framework for our research, we answer the following research questions (RQs):  
-  <br> 
+   
 > * RQ1- What does the fifth industrial revolution mean in the supply chain context? 
 > *	RQ2 – What are the major topics and associated literature related to the pillars of Supply Chain 5.0?
 > *	RQ3 - What would a Supply Chain 5.0 conceptual framework look like?
@@ -56,10 +56,14 @@ This study employed the use of VOS Viewer, a software tool for constructing and 
 
  
 > * 1. Document co-citation analysis: to find the most important articles with a high citation frequency in the crowdsourcing research field. 
-> *	Journal co-citation analysis: to find which journals are dominant sources of articles regarding crowdsourcing. 
-> *	Co-authorship analysis: to find the important and influential authors, institutions, and countries.  
-> *	Co-occurrence word analysis: to measure the frequency of keywords and identify current research front and evolving trends.
+> *	2. Journal co-citation analysis: to find which journals are dominant sources of articles regarding crowdsourcing. 
+> *	3. Co-authorship analysis: to find the important and influential authors, institutions, and countries.  
+> *	4. Co-occurrence word analysis: to measure the frequency of keywords and identify current research front and evolving trends.
  
+:arrow_forward: 1. Document co-citation analysis: to find the most important articles with a high citation frequency in the crowdsourcing research field. 
+<br>
+:arrow_forward: 2. Journal co-citation analysis: to find which journals are dominant sources of articles regarding crowdsourcing. 
+
 
 Through the document co-citation analysis, we identified the top 15 most cited articles in the crowdsourcing research field to analyze. We conducted our systematic review according to the Preferred Reporting Items for Systematic Reviews (PRISMA) methodology to ensure a transparent, accurate, replicable, and scientifically adequate systematic review. (Page et al., 2021) Accordingly, a protocol was established to define a Search Strategy Methodology to define the data sources, selection criteria, data extraction, and analysis.  
 
