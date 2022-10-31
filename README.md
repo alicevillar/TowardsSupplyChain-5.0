@@ -20,7 +20,7 @@
     - [3.2. Search Strategy Methodology](#32-search-strategy-methodology)
 
 
-- [4. Development timeline](#4-development-timeline)
+- [4. Project files](#4-development-timeline)
 - [5. Project Structure](#5-project-structure)
 - [10. Quick Start](#10-quick-start)
 - [11. Authentication Details](#11-authentication-details)
@@ -54,10 +54,10 @@ As a guiding framework for our research, we answer the following research questi
 
 This study employed the use of VOS Viewer, a software tool for constructing and visualizing bibliometric networks. VOS Viewer interface allows for loading and exporting information from many sources. We obtained the most relevant papers from three databases: Dimensions, SCOPUS, and Web of Science. We obtained papers from three databases: Dimensions, SCOPUS, and Web of Science. With VOSviewer, we could display bibliometric network mappings to visualize important articles, leading authors and countries, influential journals, current research topics, and hot trends in the field. We performed the following bibliometric research methods:
 
-> 1.	Document co-citation analysis: to find the most important articles with a high citation frequency in the crowdsourcing research field. 
-> 2.	Journal co-citation analysis: to find which journals are dominant sources of articles regarding crowdsourcing. 
-> 3.	Co-authorship analysis: to find the important and influential authors, institutions, and countries.  
-> 4.	Co-occurrence word analysis: to measure the frequency of keywords and identify current research front and evolving trends.
+>:round_pushpin: 1.	Document co-citation analysis: to find the most important articles with a high citation frequency in the crowdsourcing research field. 
+>:round_pushpin: 2.	Journal co-citation analysis: to find which journals are dominant sources of articles regarding crowdsourcing. 
+>:round_pushpin: 3.	Co-authorship analysis: to find the important and influential authors, institutions, and countries.  
+>:round_pushpin: 4.	Co-occurrence word analysis: to measure the frequency of keywords and identify current research front and evolving trends.
 
 Through the document co-citation analysis, we identified the top 15 most cited articles in the crowdsourcing research field to analyze. We conducted our systematic review according to the Preferred Reporting Items for Systematic Reviews (PRISMA) methodology to ensure a transparent, accurate, replicable, and scientifically adequate systematic review. (Page et al., 2021) Accordingly, a protocol was established to define a Search Strategy Methodology to define the data sources, selection criteria, data extraction, and analysis.  
 
