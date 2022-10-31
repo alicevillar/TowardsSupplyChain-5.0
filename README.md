@@ -15,11 +15,9 @@
 <!-- TOC -->
 - [1. Overview](#1-overview)
 - [2. Research Questions](#2-research-questions) 
-    - [2.1. Monolithic Architecture](#21-monolithic-architecture)
-    - [2.2. Microservice Architecture](#22-microservice-architecture)
-- [3. Project Interface](#3-project-interface)
-    - [3.1. How to use SFA](#31-how-to-use-sfa)
-    - [3.2. Activity Diagrams](#32-activity-diagrams)
+- [3. Methodology](#3-methodology)
+    - [3.1. Bibliometric Research and Systematic Literature Review](#31-bibliometric research-and-systematic-literature-review)
+    - [3.2. Search Strategy Methodology](#32-search-strategy-methodology)
 - [4. Development timeline](#4-development-timeline)
 - [5. Project Structure](#5-project-structure)
 - [6. Project Files](#6-project-files)
@@ -43,11 +41,19 @@
  
 <br> 
  
-## 2. Architecture 
+## 2. Research Questions  
  <br> 
 As a guiding framework for our research, we answer the following research questions (RQs):  
  
-> * •	RQ1- What does the fifth industrial revolution mean in the supply chain context? 
-> •	RQ2 – What are the major topics and associated literature related to the pillars of Supply Chain 5.0?
-> •	RQ3 - What would a Supply Chain 5.0 conceptual framework look like?
-> •	RQ4 - What is the future research agenda related to Supply Chain 5.0? 
+> * RQ1- What does the fifth industrial revolution mean in the supply chain context? 
+> *	RQ2 – What are the major topics and associated literature related to the pillars of Supply Chain 5.0?
+> *	RQ3 - What would a Supply Chain 5.0 conceptual framework look like?
+> *	RQ4 - What is the future research agenda related to Supply Chain 5.0? 
+
+
+## 3. Methodology  
+
+
+## 3.1 Bibliometric Research and Systematic Literature Review
+
+## 3.2 Search Strategy Methodology
