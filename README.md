@@ -38,16 +38,16 @@
 <!-- /TOC -->
  
 ## 1. Overview 
-
+ <br> 
  This article performs a bibliometric study followed by a systematic literature review to analyze the published literature landscape and presents a study of how Industry 5.0 can enable supply chain evaluation and optimization in manufacturing processes, helping to enhance supply chain resilience. Through this mixed approach, which incorporates both qualitative and quantitative methods, this paper analyzes the novel concept of Supply Chain 5.0, identifying its fundamental constructs and ongoing trends. In addition, we propose a conceptual framework to understand and model Supply Chain 5.0 as sustainable, resilient, and human-centric. Our findings can benefit and empower both research and practice. While practitioners can use the results to guide investment decisions, scholars may use them to better understand how Industry 5.0 can help redesign future supply chains. 
  
 <br> 
  
 ## 2. Architecture 
-
+ <br> 
 As a guiding framework for our research, we answer the following research questions (RQs):  
  
-•	RQ1- What does the fifth industrial revolution mean in the supply chain context? 
-•	RQ2 – What are the major topics and associated literature related to the pillars of Supply Chain 5.0?
-•	RQ3 - What would a Supply Chain 5.0 conceptual framework look like?
-•	RQ4 - What is the future research agenda related to Supply Chain 5.0? 
+> •	RQ1- What does the fifth industrial revolution mean in the supply chain context? 
+> •	RQ2 – What are the major topics and associated literature related to the pillars of Supply Chain 5.0?
+> •	RQ3 - What would a Supply Chain 5.0 conceptual framework look like?
+> •	RQ4 - What is the future research agenda related to Supply Chain 5.0? 
