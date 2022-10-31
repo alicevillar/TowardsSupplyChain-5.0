@@ -7,8 +7,7 @@
  
  
 >This is the official repository for the paper: "Towards Supply Chain 5.0: redesigning supply chains as resilient, sustainable, and human-centric systems in a post-
->pandemic world". This article performs a bibliometric study followed by a systematic literature review to analyze the published literature landscape and presents a >study of how Industry 5.0 can enable supply chain evaluation and optimization in manufacturing processes, helping to enhance supply chain resilience.
-
+>pandemic world".  
  
 <h1>Table of Contents</h1>
 
