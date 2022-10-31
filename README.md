@@ -52,13 +52,14 @@ As a guiding framework for our research, we answer the following research questi
 
 ## 3.1 Bibliometric Research and SLR
 
-This study employed the use of VOS Viewer, a software tool for constructing and visualizing bibliometric networks. VOS Viewer interface allows for loading and exporting information from many sources. We obtained the most relevant papers from three databases: Dimensions, SCOPUS, and Web of Science. We obtained papers from three databases: Dimensions, SCOPUS, and Web of Science. With VOSviewer, we could display bibliometric network mappings to visualize important articles, leading authors and countries, influential journals, current research topics, and hot trends in the field. We performed the following bibliometric research methods:
+This study employed the use of VOS Viewer, a software tool for constructing and visualizing bibliometric networks. VOS Viewer interface allows for loading and exporting information from many sources. We obtained papers from three databases: Dimensions, SCOPUS, and Web of Science. 
+
+With VOSviewer, we could display bibliometric network mappings to visualize important articles, leading authors and countries, influential journals, current research topics, and hot trends in the field. We performed the following bibliometric research methods:
 
  
 :arrow_forward: 1. Document co-citation analysis: to find the most important articles with a high citation frequency in the crowdsourcing research field. 
 <br>
 :arrow_forward: 2. Journal co-citation analysis: to find which journals are dominant sources of articles regarding crowdsourcing. 
-
 :arrow_forward: 3. Co-authorship analysis: to find the important and influential authors, institutions, and countries.  
 :arrow_forward: 4. Co-occurrence word analysis: to measure the frequency of keywords and identify current research front and evolving trends.  
 
