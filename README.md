@@ -47,7 +47,7 @@
  <br> 
 As a guiding framework for our research, we answer the following research questions (RQs):  
  
-> •	RQ1- What does the fifth industrial revolution mean in the supply chain context? 
+> * •	RQ1- What does the fifth industrial revolution mean in the supply chain context? 
 > •	RQ2 – What are the major topics and associated literature related to the pillars of Supply Chain 5.0?
 > •	RQ3 - What would a Supply Chain 5.0 conceptual framework look like?
 > •	RQ4 - What is the future research agenda related to Supply Chain 5.0? 
