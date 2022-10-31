@@ -17,16 +17,21 @@
 - [3. Methodology](#3-methodology)
     - [3.1. Bibliometric Research and SLR](#31-bibliometric-research-and-slr)
     - [3.2. Search Strategy Methodology](#32-search-strategy-methodology)
+    - [3.3. PRISMA Flow Chart](#33-prima-flow-chart)
+
+    - [3.3. 2.3.	Data Gathering and Preprocessing ](#34-data-Gathering-and-Preprocessing)
+
+- [4. Bibliometric Research](#4-bibliometric-research)
+    - [4.1. Keywords Co-occurrence Network](#111-Keywords-Co-occurrence-Network)
+    - [4.1.1 Search 1 - 5IR Supply Chains](#111-search-1-5IR-supply-chains)
+    - [4.1.2 Search 2 - 5IR Supply Chains](#111-search-1-5IR-supply-chains)
+    - [4.1.3 Search 3 - 5IR Supply Chains](#111-search-1-5IR-supply-chains)
+    - [4.1.4 Search 4 - 5IR Supply Chains](#111-search-1-5IR-supply-chains)
 
 
-- [4. Project files](#4-development-timeline)
-- [5. Project Structure](#5-project-structure)
-- [10. Quick Start](#10-quick-start)
-- [11. Authentication Details](#11-authentication-details)
-    - [11.1. Request Structure](#111-request-structure)
     - [10.2. API Rate Limits](#102-api-rate-limits) 
  
-- [15. References](#15-references)
+- [5. References](#15-references)
 
 <!-- /TOC -->
  
@@ -68,14 +73,25 @@ Through the document co-citation analysis, we identified the top 15 most cited a
 ## 3.2 Search Strategy Methodology
 
 
+Next, Table 1 presents the Search Strategy Methodology, adapted from Durach et al (2017):
+ 
+## 3.3 PRIMA Flow chart
+
+PRIMA Flow chart of the literature review process:
+
+## 3.4 Data Gathering and Preprocessing 
+
+## 4. Bibliometric Research 
 
 
-| Step 1    | Reasoning              |
-|-----------|------------------------|
-| AB        | AdaBoost               |
-| DT        | Decision Tree          |
-| GB        | Gradient Boosting      |
-| GNB       | Gaussian Naive Bayes   |
-| MLP       | Multi-Layer Perceptron |
-| RF        | Random Forest          |
+## 4.1 Keywords Co-occurrence Network
+
+## 4.1.1 Search 1 - 5IR Supply Chains
+
+## 4.1.2 Search 2 - 5IR Supply Chains and Resilience 
+
+## 4.1.3 Search 3 - 5IR Supply Chains and Sustainability 
+
+## 4.1.4 Search 4 - 5IR Supply Chains and Human Centricity  
+
 
