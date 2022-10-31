@@ -100,7 +100,7 @@ PRIMA Flow chart of the literature review process:
 
 ## 4.1.3 Search 3 - 5IR Supply Chains and Sustainability 
 
-![print](/Search-3/S3-png.png)
+![print](/Search-3/s3-png.png)
 
 
 ## 4.1.4 Search 4 - 5IR Supply Chains and Human Centricity  
