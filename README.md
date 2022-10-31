@@ -70,3 +70,12 @@ Through the document co-citation analysis, we identified the top 15 most cited a
 
 
 
+| Step 1    | Reasoning              |
+|-----------|------------------------|
+| AB        | AdaBoost               |
+| DT        | Decision Tree          |
+| GB        | Gradient Boosting      |
+| GNB       | Gaussian Naive Bayes   |
+| MLP       | Multi-Layer Perceptron |
+| RF        | Random Forest          |
+
