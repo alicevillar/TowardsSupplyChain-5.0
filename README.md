@@ -27,7 +27,7 @@
     - [11.1. Request Structure](#111-request-structure)
     - [10.2. API Rate Limits](#102-api-rate-limits) 
  
-- [15. Useful Links](#15-useful-links)
+- [15. References](#15-references)
 
 <!-- /TOC -->
  
@@ -59,8 +59,10 @@ This study employed the use of VOS Viewer, a software tool for constructing and 
 > 3.	Co-authorship analysis: to find the important and influential authors, institutions, and countries.  
 > 4.	Co-occurrence word analysis: to measure the frequency of keywords and identify current research front and evolving trends.
 
-
-
+Through the document co-citation analysis, we identified the top 15 most cited articles in the crowdsourcing research field to analyze. We conducted our systematic review according to the Preferred Reporting Items for Systematic Reviews (PRISMA) methodology to ensure a transparent, accurate, replicable, and scientifically adequate systematic review. (Page et al., 2021) Accordingly, a protocol was established to define a Search Strategy Methodology to define the data sources, selection criteria, data extraction, and analysis.  
 
 ## 3.2 Search Strategy Methodology
-sdfs
+
+
+
+
