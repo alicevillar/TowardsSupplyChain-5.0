@@ -17,6 +17,8 @@
 - [2. Research Questions](#2-research-questions) 
 - [3. Methodology](#3-methodology)
     - [3.1. Bibliometric Research and SLR](#31-bibliometric research-and-slr)
+    - [3.2. Bibliometric Research and SLR](#31-bibliometric research-and-slr)
+
     - [3.2. Search Strategy Methodology](#32-search-strategy-methodology)
 - [4. Development timeline](#4-development-timeline)
 - [5. Project Structure](#5-project-structure)
