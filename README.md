@@ -110,4 +110,4 @@ PRIMA Flow chart of the literature review process:
 
 ![print](/Search-4/S4-png.png)
 
-* S4 - Deleted words: outlook, country, form, world, japan, access, author, review, direction, next generation, contribution, lack source, field, jat, view, attention, basis, survey, scenario, limitation, case, component, set context. 
+* S4 - Deleted words: outlook, country, practice, form, definition, japan, access, author, review, next generation, contribution, source, field, condition, jat, view, basis, scenario, literature, case, limitation, set. 
