@@ -1,0 +1,818 @@
+﻿TY  - JOUR
+AB  - The widespread digitization and dynamic development of the technologies of the fourth industrial revolution, leading to the dehumanization of industry, have increased the interest of the scientific community in aspects of industrial humanization, sustainability and resilience. Hence, the aim of the article is to identify areas related to humanization and sustainability of the concept of Industry 4.0. A bibliometric analysis of Web of Science using Vosviewer tools, Excell and content analysis of selected papers were applied. The most important results include the determination of the dynamics of the increase in the number of publications in the segment of Industry 4.0 and Industry 5.0. The article indicates the weaknesses of the concept of Industry 4.0, especially in the area of the role of man in smart factories and sustainable development. Thus, the framework of the concept of Industry 5.0 was identified. In addition, the bibliometric analysis carried out allowed the identification of an important stream of employee skill development.
+AU  - Grabowska, Sandra
+AU  - Saniuk, Sebastian
+AU  - Gajdzik, Bożena
+CY  - Hungary
+DA  - 2022/04/27
+DO  - 10.1007/s11192-022-04370-1
+EP  - 3144
+ID  - 006-649-350-429-398
+IS  - 6
+JF  - Scientometrics
+KW  - Human centric
+KW  - Human factors
+KW  - Industry 4.0
+KW  - Industry 5.0
+KW  - Resilient
+KW  - Sustainability
+PB  - Springer Netherlands
+PY  - 2022
+SN  - 01389130
+SN  - 15882861
+SP  - 3117
+TI  - Industry 5.0: improving humanization and sustainability of Industry 4.0.
+UR  - https://lens.org/006-649-350-429-398
+VL  - 127
+ER  - 
+TY  - JOUR
+AB  - <jats:p>Smart machine companions such as artificial intelligence (AI) assistants and collaborative robots are rapidly populating the factory floor. Future factory floor workers will work in teams that include both human co-workers and smart machine actors. The visions of Industry 5.0 describe sustainable, resilient, and human-centered future factories that will require smart and resilient capabilities both from next-generation manufacturing systems and human operators. What kinds of approaches can help design these kinds of resilient human–machine teams and collaborations within them? In this paper, we analyze this design challenge, and we propose basing the design on the joint cognitive systems approach. The established joint cognitive systems approach can be complemented with approaches that support human centricity in the early phases of design, as well as in the development of continuously co-evolving human–machine teams. We propose approaches to observing and analyzing the collaboration in human–machine teams, developing the concept of operations with relevant stakeholders, and including ethical aspects in the design and development. We base our work on the joint cognitive systems approach and propose complementary approaches and methods, namely: actor–network theory, the concept of operations and ethically aware design. We identify their possibilities and challenges in designing and developing smooth human–machine teams for Industry 5.0 manufacturing systems.</jats:p>
+AU  - Kaasinen, Eija
+AU  - Anttila, Anu-Hanna
+AU  - Heikkilä, Päivi
+AU  - Laarni, Jari
+AU  - Koskinen, Hanna
+AU  - Väätänen, Antti
+CY  - Switzerland
+DA  - 2022/02/26
+DO  - 10.3390/su14052773
+EP  - 2773
+ID  - 009-851-433-625-819
+IS  - 5
+JF  - Sustainability
+PB  - MDPI AG
+PY  - 2022
+SN  - 20711050
+SP  - 2773
+TI  - Smooth and Resilient Human–Machine Teamwork as an Industry 5.0 Design Challenge
+UR  - https://lens.org/009-851-433-625-819
+VL  - 14
+ER  - 
+TY  - JOUR
+AB  - Physical Internet (PI) is an open global logistics system of which components are hyperconnected for increased efficiency and sustainability. Digital twin (DT), referring to the virtual representation of a physical object, is well-perceived as a key driver in the development of PI-based Supply Chain Management (SCM). Due to the capabilities of real-time monitoring and evaluation of large-scale complex systems, significant research efforts have been made to exploit values of PI/DT in SCM. Despite this, the current literature remained largely unstructured and scattered due to a lack of systematic literature reviews to synergise research findings, analyse the evolution of research fronts and extract emerging trends in the field. To address this issue, the paper deploys a bibliometric knowledge mapping approach to provide a bird's eye view of the current research status in the PI/DT-SCM area. Using CiteSpace's keyword co-occurrence network, 518 journal articles are clustered into 10 key research streams on PI/DT applications in: job shop scheduling, smart manufacturing design, PI-based SCM, manufacturing virtualisation, information management, sustainability development, data analytics, manufacturing operations management, simulation and optimisation, and assembly process planning. Based on citation burst rate, keywords representing research frontiers of the PI/DT are detected and their temporal evolutions are discussed. Likewise, some identified emerging research trends are production process and system, robotics, computer architecture, and cost. Finally, seven future research directions are suggested, which emphasise on several PI/DT-related issues, including business ecosystem, sustainability development, SC downstream management, cognitive thinking in Industry 5.0, citizen twin in digital society, and SC resilience.
+AU  - Nguyen, Tiep
+AU  - Duong, Quang Huy
+AU  - Nguyen, Truong Van
+AU  - Zhu, You
+AU  - Zhou, Li
+CY  - Netherlands
+DO  - 10.1016/j.ijpe.2021.108381
+EP  - 108381
+ID  - 010-590-914-224-912
+JF  - International Journal of Production Economics
+PB  - Elsevier BV
+PY  - 2022
+SN  - 09255273
+SN  - 18737579
+SP  - 108381
+TI  - Knowledge mapping of digital twin and physical internet in Supply Chain Management: A systematic literature review
+UR  - https://lens.org/010-590-914-224-912
+VL  - 244
+ER  - 
+TY  - JOUR
+AB  - Scholars believe that the newly introduced Industry 5.0 has the potential to move beyond the profit-centered productivity of Industry 4.0 and to promote sustainable development goals such as human-centricity, socio-environmental sustainability, and resilience. However, little has been done to understand how this ill-defined phenomenon may deliver its indented sustainability values despite these speculative promises. To address this knowledge gap, the present study developed a strategy roadmap that explains the mechanism by which Industry 5.0 delivers its intended sustainable development functions. The study first developed and introduced the Industry 5.0 reference model that describes the technical and functional properties of this phenomenon. The study further conducted a content-centric synthesis of the literature and identified the sustainable development functions of Industry 5.0. Next, the interpretive structural modeling (ISM) technique was employed to identify the sequential relationships among the functions and construct the Industry 5.0-enabled model of sustainable development. The ISM involved collecting the opinions of 11 Industry 5.0 experts through expert panel meetings. Results revealed that Industry 5.0 delivers sustainable development values through 16 functions. Circular intelligent products, employee technical assistance, intelligent automation, open sustainable innovation, renewable integration, and supply chain adaptability are examples of the functions identified. These functions are highly interrelated and should be developed in a specific order so that the synergies and complementarities among them would maximize the sustainable development value gains. The roadmap to Industry 5.0-driven sustainability developed in this study is expected to provide a better understanding of ways Industry 5.0 can contribute to sustainable development, explaining how the development of its functions should be managed to maximize their synergies and contribution to the intended sustainability values. The study also highlights important avenues for future research, emphasizing the potential enablers of Industry 5.0 development, such as Government 5.0 or Corporate Governance 5.0.
+AU  - Ghobakhloo, Morteza
+AU  - Iranmanesh, Mohammad
+AU  - Mubarak, Muhammad Faraz
+AU  - Mubarik, Mobashar
+AU  - Rejeb, Abderahman
+AU  - Nilashi, Mehrbakhsh
+CY  - Netherlands
+DO  - 10.1016/j.spc.2022.08.003
+EP  - 737
+ID  - 018-537-060-605-321
+JF  - Sustainable Production and Consumption
+PB  - Elsevier BV
+PY  - 2022
+SN  - 23525509
+SP  - 716
+TI  - Identifying industry 5.0 contributions to sustainable development: A strategy roadmap for delivering sustainability values
+UR  - https://lens.org/018-537-060-605-321
+VL  - 33
+ER  - 
+TY  - JOUR
+AB  - Obstructive sleep apnea-hypopnea syndrome (OSAHS) has been gradually valued due to its high prevalence, high risk, and high mortality. This article is to find an alternative to the polysomnography (PSG) OSAHS diagnosis method and assesses the subject&#x0027;s degree of illness considering the supply chain and Industry 5.0 requirement, efficiently, accurately and easily. The blood oxygen saturation (SpO2) signal is used to count the number of apnea or hypoventilation events. It extracts 35-dimensional features based on the time domain to enhance the process resilience, including approximate entropy, Centralized Trend Measurement (CTM), and LZ complexity for the diagnosis process in supply chains. This article summarizes the Oxygen Desaturation Index (ODI) characteristics. The feature selection process is reduced from 35 to 7 dimensions and benefits the implementation in the practical supply chains in industry 5.0. A 92% accuracy rate is reached in assessing the prevalence of OSAHS, satisfying the industrial deployment.
+AU  - Zhang, Mingdong
+AU  - Dong, Chaoyu
+AU  - Zhang, Dongming
+AU  - Tseng, Ming-Lang
+AU  - Wei, Jianguo
+AU  - Xiong, Naixue
+CY  - United States
+DO  - 10.1109/tii.2022.3152809
+EP  - 1
+ID  - 020-622-009-482-125
+JF  - IEEE Transactions on Industrial Informatics
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+PY  - 2022
+SN  - 15513203
+SN  - 19410050
+SP  - 1
+TI  - An Intelligent Classification Diagnosis based on Blood Oxygen Saturation Signals for Medical Data Supply Chain Including COVID-19 in Industry 5.0
+UR  - https://lens.org/020-622-009-482-125
+ER  - 
+TY  - JOUR
+AB  - <jats:p>The article addresses the main trends in the development of world industry within the framework of Industry 4.0 and the new Industry 5.0. The main prerequisites for the emergence of the Industry 5.0 concept are studied, in particular, extensive digitization and the dynamic development of technologies of the fourth industrial revolution, which has led to the certain dehumanization of industry and has increased the interest of the scientific community in the aspects of industrial humanization, human-centeredness of industry, stability, sustainability, and resilience. The main principles and trends of the development of Industry 5.0, the impact of the Covid-19 pandemic, geopolitical crises, and disruptions of the global value chains on the condition and prospects for the development of world industry, new rules and requirements for global product manufacturers, technological innovations, and production trends are studied. The author identifies directions for expanding the concept of Industry 4.0 to include humanization, sustainability, and resilience. The rapid development of new technologies often outpaces the ability of organizations to align their development priorities with it and effectively take advantage of new opportunities, which leads to the need to navigate the changing business environment in time and develop a relevant development strategy. With so many technological changes, changing workforce demands, and social and regulatory priorities, there is a need to define guiding principles to help set the course for the digital industry. Industry 5.0 has become the basis for revising the future of energy, manufacturing, and mobility of supply chains, which rest on the foundations laid by Industry 4.0. The weaknesses of the Industry 4.0 concept, especially in terms of the role of a human in "smart" production and ensuring sustainable development are outlined. Accordingly, the expediency of further research and implementation of the Industry 5.0 concept is substantiated. On the basis of the conducted research on the implementation of Industry 5.0 and the world trends of industrial development, the author justifies the feasibility of reorienting production and business activities to human-centeredness as a new norm, strengthening sustainability, in particular, careful planning of stabilization measures in case of disruption of the global value chains – from factory facilities to network supplier, to transport channels, to regulatory and geopolitical changes, ensuring sustainability with manufacturers rethinking their impact on natural resources in connection with the expansion of the regulatory and legislative framework and investors' attention to reducing carbon emissions and negative impact on the environment.</jats:p>
+AU  - Ryvak, Nataliya O.
+DO  - 10.36818/2071-4653-2022-3-7
+EP  - 46
+ID  - 022-371-894-631-478
+IS  - 3(155)
+JF  - Socio-Economic Problems of the Modern Period of Ukraine
+PB  - State Institution - Institute of regional research named after M.I. Dolishniy of NAS of Ukraine
+PY  - 2022
+SN  - 20714653
+SP  - 41
+TI  - Industry 5.0: transition to a sustainable and human-oriented industry
+UR  - https://lens.org/022-371-894-631-478
+ER  - 
+TY  - JOUR
+AB  - Nanomaterials are at the leading edge of the emerging field of nanotechnology. Their unique and tunable size-dependent properties (in the range 1–100 nm) make these materials indispensable in many modern technological applications. In this Review, we summarize the state-of-art in the manufacture and applications of inorganic nanoparticles made using continuous hydrothermal flow synthesis (CHFS) processes. First, we introduce ideal requirements of any flow process for nanoceramics production, outline different approaches to CHFS, and introduce the pertinent properties of supercritical water and issues around mixing in flow, to generate nanoparticles. This Review then gives comprehensive coverage of the current application space for CHFS-made nanomaterials including optical, healthcare, electronics (including sensors, information, and communication technologies), catalysis, devices (including energy harvesting/conversion/fuels), and energy storage applications. Thereafter, topics of precursor chemistry and ...
+AU  - Darr, Jawwad A.
+AU  - Zhang, Jingyi
+AU  - Makwana, Neel M.
+AU  - Weng, Xiaole
+CY  - United States
+DA  - 2017/08/03
+DO  - 10.1021/acs.chemrev.6b00417
+EP  - 11238
+ID  - 024-488-138-479-222
+IS  - 17
+JF  - Chemical reviews
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/28771006
+L2  - https://pubmed.ncbi.nlm.nih.gov/28771006/
+L2  - https://dx.doi.org/10.1021%2Facs.chemrev.6b00417
+L2  - http://pubsdc3.acs.org/doi/full/10.1021/acs.chemrev.6b00417
+L2  - http://europepmc.org/abstract/MED/28771006
+L2  - http://dx.doi.org/10.1021%2Facs.chemrev.6b00417
+L2  - https://pubag.nal.usda.gov/catalog/5802040
+L2  - http://pubs.acs.org/doi/10.1021/acs.chemrev.6b00417
+L2  - https://discovery.ucl.ac.uk/id/eprint/1570822/
+L2  - http://pubs.acs.org/doi/abs/10.1021/acs.chemrev.6b00417?src=recsys
+L2  - https://core.ac.uk/display/111031899
+L2  - https://pubs.acs.org/doi/10.1021/acs.chemrev.6b00417
+L2  - https://core.ac.uk/download/pdf/111031899.pdf
+PB  - American Chemical Society
+PY  - 2017
+SN  - 15206890
+SN  - 00092665
+SP  - 11125
+TI  - Continuous Hydrothermal Synthesis of Inorganic Nanoparticles: Applications and Future Directions
+UR  - https://lens.org/024-488-138-479-222
+VL  - 117
+ER  - 
+TY  - JOUR
+AB  - The changing times that followed the development of technology made the education system management must be updated to suit the needs and conditions of the environment. In this article, we look for information about the education system in two different countries, namely Japan and Indonesia. The purpose of this research is to find out the integration between the two countries that have different education management systems. The research method used is a descriptive qualitative method. In this research also, the research method is based on the philosophy of postpositivism, using natural conditions or objects. The instrument used to find out information on the education system in each school uses 10 questions and looks for curriculum information data in general in each country. The findings in this study found that, although the management of the education systems of the two countries was slightly different, Indonesian students could compete to continue their tertiary education to developed countries. Besides, the education system in Japan does not make students from Indonesia experience difficulties.
+AU  - Munifah, Munifah
+AU  - Tsani, Iskandar
+AU  - Yasin, Muhamad
+AU  - Tortop, Hasan Said
+AU  - Palupi, Endah Kinarya
+AU  - Umam, Rofiqul
+DA  - 2019/12/26
+DO  - 10.24042/tadris.v4i2.4893
+EP  - 170
+ID  - 026-648-209-130-769
+IS  - 2
+JF  - Tadris: Jurnal Keguruan dan Ilmu Tarbiyah
+L2  - http://repository.iainkediri.ac.id/135/
+L2  - http://ejournal.radenintan.ac.id/index.php/tadris/article/view/4893
+L1  - http://ejournal.radenintan.ac.id/index.php/tadris/article/download/4893/pdf
+L2  - https://doaj.org/article/6e7baf655d0d455b9ecd65304146b0b4
+L2  - https://core.ac.uk/download/pdf/276126931.pdf
+PB  - Raden Intan State Islamic University of Lampung
+PY  - 2019
+SN  - 25797964
+SN  - 23017562
+SP  - 159
+TI  - Management System of Education: Conceptual Similarity (Integration) between Japanese Learning System and Islamic Learning System in Indonesia
+UR  - https://lens.org/026-648-209-130-769
+VL  - 4
+ER  - 
+TY  - GEN
+AB  - The territory is central. Both geographic and human, it brings together a complex set of fields: public, political, economic, social, etc. To ignore this heterogeneity is ultimately to impose blinders on yourself and only look at a small part of the territorial reality. A territory that controls its stakeholders offers vigilant 360 ° governance. The choice of a "5.0" management of the territory, centered on people and criteria of sustainability : People remain central in making any decision. Whether they are decision-makers themselves or citizens, the different environments (economic, social, political, etc.) are directly impacted by humans. Through its choices and actions, it generates positive as well as negative developments. The sustainability of the territory must be understood, therefore, as the capacity to maintain human activities over the long term. Based on the principle of resilience and the UN Sustainable Development Goals, this 5.0 strategic management opens up a field of possibilities and innovations in the just governance of a territory.
+AU  - Schoch, Patrice
+AU  - Du Castel, Viviane
+AU  - Bennar, Hajar
+ID  - 027-955-755-594-33X
+JF  - Research Papers in Economics
+L2  - https://ideas.repec.org/p/hal/journl/hal-02939493.html
+PY  - 2020
+TI  - Strategic management 5.0. and sustainability of territories [Pilotage stratégique 5.0 et durabilité des territoires]
+UR  - https://lens.org/027-955-755-594-33X
+ER  - 
+TY  - BOOK
+AB  - This book aims at addressing the challenges of contemporary manufacturing in Industry 4.0 environment and future manufacturing (aka Industry 5.0), by implementing soft computing as one of the major sub-fields of artificial intelligence. It contributes to development and application of the soft computing systems, including links to hardware, software and enterprise systems, in resolving modern manufacturing issues in complex, highly dynamic and globalized industrial circumstances. It embraces heterogeneous complementary aspects, such as control, monitoring and modeling of different manufacturing tasks, including intelligent robotic systems and processes, addressed by various machine learning and fuzzy techniques; modeling and parametric optimization of advanced conventional and non-conventional, eco-friendly manufacturing processes by using machine learning and evolutionary computing techniques; cybersecurity framework for Internet of Things-based systems addressing trustworthiness and resilience in machine-to-machine and human-machine collaboration; static and dynamic digital twins integration and synchronization in a smart factory environment; STEP-NC technology for a smart machine vision system, and integration of Open CNC with Service-Oriented Architecture for STEP-NC monitoring system in a smart manufacturing. Areas of interest include but are not limited to applications of soft computing to address the following: dynamic process/system modeling and simulation, dynamic process/system parametric optimization, dynamic planning and scheduling, smart, predictive maintenance, intelligent and autonomous systems, improved machine cognition, effective digital twins integration, human-machine collaboration, robots, and cobots.
+DA  - 2021/11/15
+DO  - 10.1515/9783110693225
+ID  - 036-724-857-141-188
+PB  - De Gruyter
+PY  - 2021
+TI  - Soft Computing in Smart Manufacturing
+UR  - https://lens.org/036-724-857-141-188
+ER  - 
+TY  - JOUR
+AB  - The fifth industrial revolution brings in massive advantages, providing candidates with a more personalized experience in their job search. Industry 5.0 recognizes the power of industry in achieving societal goals beyond jobs and growth to become a resilient provider of prosperity by directing production towards respecting the boundaries of our planet and placing the well-being of the industry worker at the center of the production process. Contrary to the trends in Industry 4.0 toward technology, dehumanization, technological advancement and innovation best practices, Industry 5.0 will bend back toward serving humanity. At workplaces, this industrial revolution will shed greater light on the human intelligence than ever. The challenge now is to examine the influence of soft skills to enhance the workforce in order to prepare them for Industry 5.0. Emotional intelligence is a soft skill. The purpose of this study is to examine the influence of emotional intelligence on enhancing the workforce for Industry 5.0. A total of 110 executives took part in this study. Findings suggest that emotional intelligence does influence the workforce to perform better. Emotional recognition and expression and emotions direct cognition were found to have a greater impact on the performance.
+AU  - Chin, Susan Tee Suan
+DA  - 2021/09/24
+DO  - 10.5171/2021.882278
+EP  - 7
+ID  - 037-306-661-972-179
+JF  - Journal of Human Resources Management Research
+L2  - http://shdl.mmu.edu.my/9745/
+PB  - IBIMA Publishing
+PY  - 2021
+SN  - 21660018
+SP  - 1
+TI  - Influence of Emotional Intelligence on the Workforce for Industry 5.0
+UR  - https://lens.org/037-306-661-972-179
+ER  - 
+TY  - JOUR
+AB  - This article discusses the role of intrapreneurial self-capital (ISC) as a possible primary preventive resource to effectively deal with the complexity of the current entrepreneurial environment. The article deepens both the similarities and differences between ISC and psychological capital and thus proceeds to present the most recent empirical evidence that connects ISC to (1) employability and career decision making, (2) innovative behavior, and (3) well-being. The possibilities for further research and interventions are additionally discussed.
+AU  - Di Fabio, Annamaria
+AU  - Duradoni, Mirko
+CY  - Switzerland
+DA  - 2019/05/08
+DO  - 10.3389/fpsyg.2019.01060
+EP  - 1060
+ID  - 037-437-678-420-629
+JF  - Frontiers in psychology
+KW  - career decision making
+KW  - employability
+KW  - entrepreneurial context
+KW  - innovative behavior
+KW  - intrapreneurial self-capital
+KW  - primary prevention
+KW  - well-being
+L2  - https://pubmed.ncbi.nlm.nih.gov/31133949/
+L2  - https://europepmc.org/article/MED/31133949
+L2  - https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01060/full
+L2  - https://flore.unifi.it/handle/2158/1161576
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6517486
+L2  - https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01060/pdf
+L2  - https://philpapers.org/rec/DIFISA
+L2  - https://core.ac.uk/download/pdf/301578201.pdf
+PB  - Frontiers Media S.A.
+PY  - 2019
+SN  - 16641078
+SP  - 1060
+TI  - Intrapreneurial Self-Capital: A Primary Preventive Resource for Twenty-First Century Entrepreneurial Contexts.
+UR  - https://lens.org/037-437-678-420-629
+VL  - 10
+ER  - 
+TY  - JOUR
+AB  - <jats:p>SIMURG_CITIES, is the research and development project that is developed under the main project named as SIMURG: “A performance-based and Sustainability-oriented Integration Model Using Relational database architecture to increase Global competitiveness of Turkish construction industry in industry 5.0 era”, is the relational database model that is currently being developed in a dissertation for performance-based development and assessment of sustainable and sophisticated solutions for the built environment. This study aims to analyze the key performance indicators (KPIs) at «Cities Level» for the smart city concept that is referred to as «Layers» in the master project. KPIs for the concept of a smart city is determined by using the meta-analysis technique. Hence, the three most reputable urban journals issued from 2017 through 2020 are reviewed in this study. In addition to this, models of smart city frameworks/assessment tools/KPIs are reviewed within the context of this paper; environment, economy and governance were found to have domain themes on the urban sustainability according to the literature review. Consequently, efficient and integrated urban management, environmental monitoring and management, public and social services of urban development and sustainability are found to be the most important dimensions in urban and regional planning. SIMURG_CITIES evaluation models for urban projects can use the findings of this paper.</jats:p>
+AU  - Ülker, Burcu
+AU  - Kanoğlu, Alaattin
+AU  - Özçevik, Özlem
+DA  - 2021/01/24
+DO  - 10.25034/ijcua.2021.v5n1-5
+EP  - 76
+ID  - 063-763-099-601-173
+IS  - 1
+JF  - Journal of Contemporary Urban Affairs
+L2  - https://ijcua.com/index.php/ijcua/article/download/206/347
+L2  - https://core.ac.uk/download/353678731.pdf
+PB  - Alanya Hamdullah Emin Pasa Universitesi
+PY  - 2021
+SN  - 24756156
+SN  - 24756164
+SP  - 59
+TI  - SIMURG_CITIES: Meta-Analysis for KPI's of Layer-Based Approach in Sustainability Assessment
+UR  - https://lens.org/063-763-099-601-173
+VL  - 5
+ER  - 
+TY  - JOUR
+AB  - We increasingly live simultaneously immersed in physical interactions and in a world where the digital dimension is present at various levels, such as the social, economic and political ones. In this context, the relationship between the digital world and Sustainability is pivotal. This aim of this paper is to discuss, in a reasoned manner, the importance of literacy in the promotion of sustainability in a digital society. For this purpose, the results of a literature review will be mobilized, as well as our 20 years of experience in teaching and research in the fields of sociology, education and organizations, without forgetting the publications that we have on similar topics, which will be, whenever heuristically relevant, mobilized to substantiate and justify the arguments presented herein. The conclusions show that, in a reality where the digital involves many of the life dimensions—for example, in the form of Industry 4.0 and Society 5.0—the role of literacy and, in particular, digital literacy, are critical in the development of sustainability literacy. For this to be possible, significant training work must be carried out. Furthermore, it is not possible to assume that the access, the skills in its use and the benefits of this wonderful digital world will automatically be grasped and felt by all citizens, in an ideology that must be fought. Only in this way will it be possible to foster sustainability, which must necessarily be inclusive.
+AU  - Santos, Ana Isabel
+AU  - Serpa, Sandro
+DA  - 2020/01/15
+DO  - 10.22158/jetss.v2n1p1
+ID  - 064-912-003-773-548
+IS  - 1
+JF  - Journal of Education, Teaching and Social Studies
+L1  - http://www.scholink.org/ojs/index.php/jetss/article/download/2551/2629
+L2  - http://www.scholink.org/ojs/index.php/jetss/article/view/2551/2629
+L2  - https://core.ac.uk/download/pdf/287183766.pdf
+PB  - Scholink Co, Ltd.
+PY  - 2020
+SN  - 26422328
+SN  - 26422336
+SP  - 1
+TI  - Literacy: Promoting Sustainability in a Digital Society
+UR  - https://lens.org/064-912-003-773-548
+VL  - 2
+ER  - 
+TY  - JOUR
+AB  - <jats:title>Abstract</jats:title><jats:p>Radio frequency identification (RFID) is a cost-effective method to support the Industrial Internet of Things (IIoT) and is an enabling technology for Industry 5.0. The use of RFID is particularly suited to IIoT as it does not require a line of sight for communication and can be retroactively affixed to non-smart items. However, RFID communication is affected by the properties of the material the tag is affixed to, specifically the material permittivity. Metal is commonly present in smart factory environments and supply chains and impedes RFID communication. A suitable tag design is required to accommodate these challenges and ensure resilience for Industry 5.0 applications. The research presented in this paper has assessed the communication performance of RFID antenna designs with and without metal present beneath the tag. The RFID tag designs that performed reliably in the simulation were manufactured, and their read range was tested on materials of varying relative permittivity and thickness to represent MP and NMP scenarios. The results have verified the robustness of “Cyber” to “Physical” designs and provide recommendations to support practitioner IIoT tag selection.
+</jats:p>
+AU  - Tribe, James
+AU  - Hayward, Steven
+AU  - van Lopik, Katherine
+AU  - Whittow, William G.
+AU  - West, Andrew A.
+CY  - Germany
+DA  - 2022/06/28
+DO  - 10.1007/s00170-022-09576-4
+EP  - 3917
+ID  - 064-914-086-299-181
+IS  - 5-6
+JF  - The International Journal of Advanced Manufacturing Technology
+PB  - Springer Science and Business Media LLC
+PY  - 2022
+SN  - 02683768
+SN  - 14333015
+SP  - 3903
+TI  - Robust RFID tag design for reliable communication within the Internet of Things
+UR  - https://lens.org/064-914-086-299-181
+VL  - 121
+ER  - 
+TY  - JOUR
+AB  - <jats:p>In the era of Industry 4.0, manufacturing and production systems were revolutionized by increasing operational efficiency and developing and implementing new business models, services, and products. Concretely, the milestone set for Industry 4.0 was to improve the sustainability and efficiency of production systems. By extension, the emphasis was focused on both the digitization and the digitalization of systems, providing room for further improvement. However, the current technological evolution is more system/machine-oriented, rather than human-oriented. Thus, several countries have begun orchestrating initiatives towards the design and development of the human-centric aspect of technologies, systems, and services, which has been coined as Industry 5.0. The impact of Industry 5.0 will extend to societal transformation, which eventually leads to the generation of a new society, the Society 5.0. The developments will be focused on the social and human-centric aspect of the tools and technologies introduced under the framework of Industry 4.0. Therefore, sustainability and human well-being will be at the heart of what comes next, the Industry 5.0, as a subset of Society 5.0. Industry 5.0 will build on the foundations laid during Industry 4.0 by emphasizing human-centered, resilient, and sustainable design. Consequently, the authors in this research work, through a critical literature review, aim to provide adequate reasoning for considering Industry 5.0 as a framework for enabling the coexistence of industry and emerging societal trends and needs. The contribution of this research work extends to the provision of a framework to facilitate the transition from Industry 4.0 to Society 5.0.</jats:p>
+AU  - Mourtzis, Dimitris
+AU  - Angelopoulos, John
+AU  - Panopoulos, Nikos
+CY  - Switzerland
+DA  - 2022/08/28
+DO  - 10.3390/en15176276
+EP  - 6276
+ID  - 066-608-381-243-647
+IS  - 17
+JF  - Energies
+PB  - MDPI AG
+PY  - 2022
+SN  - 19961073
+SP  - 6276
+TI  - A Literature Review of the Challenges and Opportunities of the Transition from Industry 4.0 to Society 5.0
+UR  - https://lens.org/066-608-381-243-647
+VL  - 15
+ER  - 
+TY  - CHAP
+AB  - There is a lack of a single architecture specification that addresses the needs of trusted and secure Artificial Intelligence systems with humans in the loop, such as human-centered manufacturing systems at the core of the evolution towards Industry 5.0. To realize this, we propose an architecture that integrates forecasts, Explainable Artificial Intelligence, supports collecting users’ feedback and uses Active Learning and Simulated Reality to enhance forecasts and provide decision-making recommendations. The architecture security is addressed at all levels. We align the proposed architecture with the Big Data Value Association Reference Architecture Model. We tailor it for the domain of demand forecasting and validate it on a real-world case study.
+AU  - Rožanec, Jože M.
+AU  - Zajec, Patrik
+AU  - Kenda, Klemen
+AU  - Novalija, Inna
+AU  - Fortuna, Blaž
+AU  - Mladenic, Dunja
+AU  - Veliou, Entso
+AU  - Papamartzivanos, Dimitrios
+AU  - Giannetsos, Thanassis
+AU  - Menesidou, Sofia Anna
+AU  - Alonso, Rubén
+AU  - Cauli, Nino
+AU  - Recupero, Diego Reforgiato
+AU  - Kyriazis, Dimosthenis
+AU  - Sofianidis, Georgios
+AU  - Theodoropoulos, Spyros
+AU  - Soldatos, John
+CY  - Germany
+DA  - 2021/08/31
+DO  - 10.1007/978-3-030-85910-7_21
+EP  - 207
+ID  - 080-063-393-216-443
+JF  - Advances in Production Management Systems. Artificial Intelligence for Sustainable and Resilient Production Systems
+L2  - https://arxiv.org/abs/2104.00983
+L2  - https://dblp.uni-trier.de/db/journals/corr/corr2104.html#abs-2104-00983
+L2  - https://www.arxiv-vanity.com/papers/2104.00983/
+L2  - https://link.springer.com/chapter/10.1007/978-3-030-85910-7_21
+L1  - https://arxiv.org/pdf/2104.00983
+PB  - Springer International Publishing
+PY  - 2021
+SN  - 18684238
+SN  - 1868422x
+SP  - 199
+TI  - APMS (4) - STARdom: an architecture for trusted and secure human-centered manufacturing systems
+UR  - https://lens.org/080-063-393-216-443
+ER  - 
+TY  - CHAP
+AB  - This work aims to study the evolution of Supply Chain (SC) towards Society 5.0 paradigm proposing a set of SCs to enhance the active role of involved stakeholders leveraging on digital technologies. Social macro-trends indeed strongly impact on companies’ business creating the urgent need to significantly adapt the way their SCs are organized and interlinked. The work is based on a consultation with experts representing different kind of companies, industrial sectors, function, role in the SC and research fields. Results lead to the identification of possible SCs for the future, and among them, three solutions seems to particularly fit current challenges related to the evolution of society: Human-centric SC, SC for active citizens and SC in urban context. According to the identified SCs, specific issues are presented and possible solutions basing on new technologies have been mapped with the support of experts. The need to integrate strategies at industrial and societal level urge thus for a new holistic way where business eco-system capabilities merge with civil society needs for have people wellbeing as a major priority.
+AU  - Fornasiero, Rosanna
+AU  - Zangiacomi, Andrea
+CY  - Germany
+DA  - 2021/08/31
+DO  - 10.1007/978-3-030-85906-0_72
+EP  - 670
+ID  - 083-608-958-244-975
+JF  - Advances in Production Management Systems. Artificial Intelligence for Sustainable and Resilient Production Systems
+L2  - https://dblp.uni-trier.de/db/conf/ifip5-7/apms2021-3.html#FornasieroZ21
+L2  - https://link.springer.com/chapter/10.1007/978-3-030-85906-0_72
+PB  - Springer International Publishing
+PY  - 2021
+SN  - 18684238
+SN  - 1868422x
+SP  - 663
+TI  - APMS (3) - Reshaping the Supply Chain for Society 5.0
+UR  - https://lens.org/083-608-958-244-975
+ER  - 
+TY  - BOOK
+AB  - We are only at the beginning of a rapid period of transformation of our economy and society due to the convergence of many digital technologies. Artificial Intelligence (AI) is central to this change and offers major opportunities to improve our lives. The recent developments in AI are the result of increased processing power, improvements in algorithms and the exponential growth in the volume and variety of digital data. Many applications of AI have started entering into our every-day lives, from machine translations, to image recognition, and music generation, and are increasingly deployed in industry, government, and commerce. Connected and autonomous vehicles, and AI-supported medical diagnostics are areas of application that will soon be commonplace. There is strong global competition on AI among the US, China, and Europe. The US leads for now but China is catching up fast and aims to lead by 2030. For the EU, it is not so much a question of winning or losing a race but of finding the way of embracing the opportunities offered by AI in a way that is human-centred, ethical, secure, and true to our core values. The EU Member States and the European Commission are developing coordinated national and European strategies, recognising that only together we can succeed. We can build on our areas of strength including excellent research, leadership in some industrial sectors like automotive and robotics, a solid legal and regulatory framework, and very rich cultural diversity also at regional and sub-regional levels. It is generally recognised that AI can flourish only if supported by a robust computing infrastructure and good quality data: • With respect to computing, we identified a window of opportunity for Europe to invest in the emerging new paradigm of computing distributed towards the edges of the network, in addition to centralised facilities. This will support also the future deployment of 5G and the Internet of Things. • With respect to data, we argue in favour of learning from successful Internet companies, opening access to data and developing interactivity with the users rather than just broadcasting data. In this way, we can develop ecosystems of public administrations, firms, and civil society enriching the data to make it fit for AI applications responding to European needs. We should embrace the opportunities afforded by AI but not uncritically. The black box characteristics of most leading AI techniques make them opaque even to specialists. AI systems are currently limited to narrow and well-defined tasks, and their technologies inherit imperfections from their human creators, such as the well-recognised bias effect present in data. We should challenge the shortcomings of AI and work towards strong evaluation strategies, transparent and reliable systems, and good human-AI interactions. Ethical and secure-by-design algorithms are crucial to build trust in this disruptive technology, but we also need a broader engagement of civil society on the values to be embedded in AI and the directions for future development. This social engagement should be part of the effort to strengthen our resilience at all levels from local, to national and European, across institutions, industry and civil society. Developing local ecosystems of skills, computing, data, and applications can foster the engagement of local communities, respond to their needs, harness local creativity and knowledge, and build a human-centred, diverse, and socially driven AI. We still know very little about how AI will impact the way we think, make decisions, relate to each other, and how it will affect our jobs. This uncertainty can be a source of concern but is also a sign of opportunity. The future is not yet written. We can shape it based on our collective vision of what future we would like to have. But we need to act together and act fast.
+AU  - Alessandro, Annoni
+AU  - Peter, Benczur
+AU  - Paolo, Bertoldi
+AU  - Blagoj, Delipetrev
+AU  - De Prato Giuditta, null
+AU  - Claudio, Feijóo González
+AU  - Enrique, Fernandez Macias
+AU  - Emilia, Gomez Gutierrez
+AU  - Maria, Iglesias Portela
+AU  - Henrik, Junklewitz
+AU  - Montserrat, Lopez Cobo
+AU  - Bertin, Martens
+AU  - Susana, Figueiredo Do Nascimento
+AU  - Stefano, Nativi
+AU  - Alexandre, Polvora
+AU  - Ignacio, Sanchez Martin Jose
+AU  - Songul, Tolan
+AU  - Ilkka, Tuomi
+AU  - Lucia, Vesnic Alujevic
+DO  - 10.2760/11251
+ID  - 091-763-231-123-996
+JF  - EUR (Luxembourg. Online)
+L2  - https://EconPapers.repec.org/RePEc:ipt:iptwpa:jrc113826
+L2  - https://ideas.repec.org/p/ipt/iptwpa/jrc113826.html
+L2  - https://publications.jrc.ec.europa.eu/repository/handle/JRC113826
+L2  - https://core.ac.uk/download/162257245.pdf
+PB  - Publications Office
+PY  - 2018
+SN  - 18319424
+TI  - Artificial Intelligence: A European Perspective
+UR  - https://lens.org/091-763-231-123-996
+ER  - 
+TY  - JOUR
+AB  - This article examines the role of sustainable finance and investment in Japan and how the Japanese financial sector can mitigate growing climate risks and support Japan's transition towards a zero-...
+AU  - Schumacher, Kim
+AU  - Chenet, Hugues
+AU  - Volz, Ulrich
+DA  - 2020/03/16
+DO  - 10.1080/20430795.2020.1735219
+EP  - 246
+ID  - 091-945-759-708-682
+IS  - 2
+JF  - Journal of Sustainable Finance & Investment
+L2  - https://www.econstor.eu/handle/10419/238440
+L2  - https://www.tandfonline.com/doi/ref/10.1080/20430795.2020.1735219
+L2  - https://econpapers.repec.org/RePEc:taf:jsustf:v:10:y:2020:i:2:p:213-246
+L2  - https://www.mendeley.com/catalogue/523df9d1-3c7e-3d64-9a8b-9ed07382b4d0/
+L2  - https://www.tandfonline.com/doi/full/10.1080/20430795.2020.1735219
+L1  - https://www.adb.org/sites/default/files/publication/571621/adbi-wp1083.pdf
+L2  - https://ora.ox.ac.uk/objects/uuid:cb3d150e-6c26-4225-a7f6-75c40cc86dc9
+L1  - https://www.econstor.eu/bitstream/10419/238440/1/adbi-wp1083.pdf
+L1  - https://www.tandfonline.com/doi/pdf/10.1080/20430795.2020.1735219
+L2  - https://www.adb.org/publications/sustainable-finance-japan
+L2  - https://core.ac.uk/download/305116869.pdf
+PB  - Informa UK Limited
+PY  - 2020
+SN  - 20430795
+SN  - 20430809
+SP  - 213
+TI  - Sustainable finance in Japan
+UR  - https://lens.org/091-945-759-708-682
+VL  - 10
+ER  - 
+TY  - JOUR
+AB  - The current statuses and future promises of the Internet of Things (IoT), Internet of Everything (IoE) and Internet of Nano-Things (IoNT) are extensively reviewed and a summarized survey is presented. The analysis clearly distinguishes between IoT and IoE, which are wrongly considered to be the same by many commentators. After evaluating the current trends of advancement in the fields of IoT, IoE and IoNT, this paper identifies the 21 most significant current and future challenges as well as scenarios for the possible future expansion of their applications. Despite possible negative aspects of these developments, there are grounds for general optimism about the coming technologies. Certainly, many tedious tasks can be taken over by IoT devices. However, the dangers of criminal and other nefarious activities, plus those of hardware and software errors, pose major challenges that are a priority for further research. Major specific priority issues for research are identified.
+AU  - Miraz, H.
+AU  - Ali, Maaruf
+AU  - Excell, Peter S.
+AU  - Picking, Richard
+CY  - Switzerland
+DA  - 2018/07/28
+DO  - 10.3390/fi10080068
+ID  - 094-019-830-401-584
+IS  - 8
+JF  - Future Internet
+L2  - https://dblp.uni-trier.de/db/journals/corr/corr1808.html#abs-1808-09869
+L2  - https://doi.org/10.3390/fi10080068
+L2  - https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=201902212341520320
+L2  - https://ui.adsabs.harvard.edu/abs/2018arXiv180809869M/abstract
+L1  - https://www.mdpi.com/1999-5903/10/8/68/pdf
+L2  - https://www.mdpi.com/1999-5903/10/8/68
+L1  - http://arxiv.org/pdf/1808.09869.pdf
+L2  - https://arxiv.org/abs/1808.09869
+L2  - http://glyndwr.repository.guildhe.ac.uk/17348/
+L2  - http://arxiv.org/abs/1808.09869
+PB  - MDPI AG
+PY  - 2018
+SN  - 19995903
+SP  - 68
+TI  - Internet of Nano-Things, Things and Everything: Future Growth Trends
+UR  - https://lens.org/094-019-830-401-584
+VL  - 10
+ER  - 
+TY  - CHAP
+AB  - <jats:p>The industry transition towards digital transformation opens the possibilities to utilize data for enhancing sustainability in industrial operations and build capabilities towards resilient and circular operations, i.e., shift towards industry 5.0. This paper explores how data-driven decision-making (DDDM) can enable sustainable and resilient supply chain operations within the manufacturing industry. A series of in-depth interviews were conducted with experts, researchers, and company representatives across the manufacturing industry and universities in Sweden. The findings show a consensus among companies, researchers, and literature about the potential of data utilization for sustainability purposes; however, in most cases, the complete transformation towards data-driven has not happened yet. Companies have uncertainty about what data is needed rather than its lack. Reliability &amp; validity of data become essential to exploit the potential of the data organizations already possess. Based on the literature and interview data, a conceptual model is proposed, including three identified parameters connected to DDDM, 1) data and IT infrastructure, 2) current operations, and 3) an improved triple bottom line performance. The model captures the interconnections between such parameters, depicting the benefits and challenges of DDDM and its relation to more sustainable and resilient supply chain operations within the manufacturing industry. In a data-driven approach, real-time analysis of complex &amp; extensive amounts of data gives unlimited possibilities to improve manufacturing operations through decision-making.</jats:p>
+AU  - Chavez, Zuhara
+AU  - Gopalakrishnan, Maheshwaran
+AU  - Nilsson, Viktor
+AU  - Westbroek, Arvid
+DA  - 2022/04/20
+DO  - 10.3233/atde220158
+ID  - 095-952-734-836-902
+JF  - Advances in Transdisciplinary Engineering
+PB  - IOS Press
+PY  - 2022
+SN  - 2352751x
+SN  - 23527528
+TI  - Exploring Data-Driven Decision-Making for Enhanced Sustainability
+UR  - https://lens.org/095-952-734-836-902
+ER  - 
+TY  - JOUR
+AB  - • A real assembly line balancing problem with human-robot collaboration is studied. • A new MILP model is proposed for the problem. • An adaptive SA algorithm is proposed with customized characteristics. • The SA’s performance is validated in real-world cases from the automotive industry. In light of the Industry 5.0 trend towards human-centric and resilient industries, human-robot collaboration (HRC) assembly lines can be used to enhance productivity and workers’ well-being, provided that the optimal allocation of tasks and available resources can be determined. This study investigates the assembly line balancing problem (ALBP), considering HRC. This problem, abbreviated ALBP-HRC, arises in advanced manufacturing systems, where humans and collaborative robots share the same workplace and can simultaneously perform tasks in parallel or in collaboration. Driven by the need to solve the more complex assembly line-balancing problems found in the automotive industry, this study aims to address the ALBP-HRC with the cycle time and the number of operators (humans and robots) as the primary and secondary objective, respectively. In addition to the traditional ALBP constraints, the human and robot characteristics, in terms of task times, allowing multiple humans and robots at stations, and their joint/collaborative tasks are formulated into a new mixed-integer linear programming (MILP) model. A neighborhood-search simulated annealing (SA) is proposed with customized solution representation and neighborhood search operators designed to fit into the problem characteristics. Furthermore, the proposed SA features an adaptive neighborhood selection mechanism that enables the SA to utilize its exploration history to dynamically choose appropriate neighborhood operators as the search evolves. The proposed MILP and SA are implemented on real cases taken from the automotive industry where stations are designed for HRC. The computational results over different problems show that the adaptive SA produces promising solutions compared to the MILP and other swarm intelligence algorithms, namely genetic algorithm, particle swarm optimization, and artificial bee colony. The comparisons of human/robot versus HRC settings in the case study indicate significant improvement in the productivity of the assembly line when multiple humans and robots with collaborative tasks are permissible at stations.
+AU  - Nourmohammadi, Amir
+AU  - Fathi, Masood
+AU  - Ng, Amos H.C.
+CY  - United Kingdom
+DO  - 10.1016/j.cor.2021.105674
+EP  - 105674
+ID  - 097-238-534-260-747
+JF  - Computers & Operations Research
+PB  - Elsevier BV
+PY  - 2022
+SN  - 03050548
+SN  - 1873765x
+SP  - 105674
+TI  - Balancing and scheduling assembly lines with human-robot collaboration tasks
+UR  - https://lens.org/097-238-534-260-747
+VL  - 140
+ER  - 
+TY  - JOUR
+AB  - Benefiting from the marriage of just-in-time (JIT) and computer integrated manufacturing (CIM), a series of manufacturing planning and control (MPC) systems has been introduced for contemporary production and operations management. However, the increasing requirements for customized and personalized products and services, together with the acceleration of the socio-economic environment in the age of Industry 4.0, forced manufacturers to re-evaluate their current MPC strategies that mainly emphasize time, cost and quality priorities. Industry 4.0 presents a solid ambition for transforming to a digital, data-driven and interconnected manufacturing industry centred around cyber-physical convergence. Although the relevance of Industry 4.0 technologies’ disruptions on operations management has been acknowledged, a significant gap in the evolution of the logic and design of MPC systems has been observed. The requirements of on-demand products and services with enhanced flexibility, resilience, sustainability and humanitarianism in this new industrial revolution call for innovations of MPC architectures and approaches. This paper first summarizes the evolution of MPC systems with enabling technologies and the changing business climate at that time. To explore innovative MPC that complies with the increasing economic, social and environmental requirements, the concept of synchronization-oriented MPC with four principles is proposed. Following the principles, a general framework for the synchronization-oriented MPC with enhanced economic, social and environmental benefits is developed. This work potentially provides insights into innovative MPC in the age of Industry 4.0 and even Industry 5.0.
+AU  - Guo, Daqiang
+AU  - Ling, Shiquan
+AU  - Rong, Yiming
+AU  - Huang, George Q.
+CY  - Austria
+DO  - 10.1016/j.ifacol.2022.04.187
+EP  - 168
+ID  - 097-679-733-631-241
+IS  - 2
+JF  - IFAC-PapersOnLine
+PB  - Elsevier BV
+PY  - 2022
+SN  - 24058963
+SN  - 24058971
+SP  - 163
+TI  - Towards synchronization-oriented manufacturing planning and control for Industry 4.0 and beyond
+UR  - https://lens.org/097-679-733-631-241
+VL  - 55
+ER  - 
+TY  - JOUR
+AU  - Leng, Jiewu
+AU  - Sha, Weinan
+AU  - Lin, Zisheng
+AU  - Jing, Jianbo
+AU  - Liu, Qiang
+AU  - Chen, Xin
+CY  - United Kingdom
+DA  - 2022/06/22
+DO  - 10.1080/00207543.2022.2089929
+EP  - 20
+ID  - 104-206-873-828-080
+JF  - International Journal of Production Research
+PB  - Informa UK Limited
+PY  - 2022
+SN  - 00207543
+SN  - 1366588x
+SP  - 1
+TI  - Blockchained smart contract pyramid-driven multi-agent autonomous process control for resilient individualised manufacturing towards Industry 5.0
+UR  - https://lens.org/104-206-873-828-080
+ER  - 
+TY  - GEN
+AB  - The territory is central. Both geographic and human, it brings together a complex set of fields: public, political, economic, social, etc. To ignore this heterogeneity is ultimately to impose blinders on yourself and only look at a small part of the territorial reality. A territory that controls its stakeholders offers vigilant 360 ° governance. The choice of a "5.0" management of the territory, centered on people and criteria of sustainability : People remain central in making any decision. Whether they are decision-makers themselves or citizens, the different environments (economic, social, political, etc.) are directly impacted by humans. Through its choices and actions, it generates positive as well as negative developments. The sustainability of the territory must be understood, therefore, as the capacity to maintain human activities over the long term. Based on the principle of resilience and the UN Sustainable Development Goals, this 5.0 strategic management opens up a field of possibilities and innovations in the just governance of a territory.
+AU  - Schoch, Patrice
+AU  - Du Castel, Viviane
+AU  - Bennar, Hajar
+ID  - 118-977-286-777-227
+JF  - Research Papers in Economics
+L2  - https://econpapers.repec.org/RePEc:hal:journl:hal-02939493
+PY  - 2020
+TI  - Strategic management 5.0. and sustainability of territories
+UR  - https://lens.org/118-977-286-777-227
+ER  - 
+TY  - JOUR
+AB  - We present an empirical study to systemically estimate flooding impacts, linking across scales from individual firms through to the macro levels in China. To this end, we combine a detailed firm-level econometric analysis of 399,356 firms with a macroeconomic input-output model to estimate flood impacts on China’s manufacturing sector over the period 2003–2010. We find that large flooding events on average reduce firm outputs (measured by labor productivity) by about 28.3% per year. Using an input-output analysis, we estimate the potential macroeconomic impact to be a 12.3% annual loss in total output, which amounts to 15,416 RMB billion. Impacts can propagate from manufacturing firms, which are the focus of our empirical analysis, through to other economic sectors that may not actually be located in floodplains but can still be affected by economic disruptions. Lagged flood effects over the following two years are estimated to be a further 5.4% at the firm level and their associated potential effects are at a 2.3% loss in total output or 2,486 RMB billion at the macro-level. These results indicate that the scale of economic impacts from flooding is much larger than microanalyses of direct damage indicate, thus justifying greater action, at a policy level and by individual firms, to manage flood risk.
+AU  - Hu, Xi
+AU  - Pant, Raghav
+AU  - Hall, Jim W.
+AU  - Surminski, Swenja
+AU  - Huang, Jiashun
+CY  - Switzerland
+DA  - 2019/04/01
+DO  - 10.3390/su11071933
+ID  - 128-419-307-357-552
+IS  - 7
+JF  - Sustainability
+L2  - https://eprints.lse.ac.uk/100534/
+L2  - https://www.mdpi.com/2071-1050/11/7/1933
+L2  - https://ideas.repec.org/a/gam/jsusta/v11y2019i7p1933-d218995.html
+L2  - https://www.mdpi.com/2071-1050/11/7/1933/pdf
+L2  - https://core.ac.uk/download/196515473.pdf
+PB  - MDPI AG
+PY  - 2019
+SN  - 20711050
+SP  - 1933
+TI  - Multi-Scale Assessment of the Economic Impacts of Flooding: Evidence from Firm to Macro-Level Analysis in the Chinese Manufacturing Sector
+UR  - https://lens.org/128-419-307-357-552
+VL  - 11
+ER  - 
+TY  - GEN
+AB  - In the face of disruptive change, reaction time is an essential vector. Both linked to the organization and to all stakeholders, the different temporalities will define the capacity for an organization to be able to survive, adapt or control a constraint or change. This "Time To Action" will depend on several factors: the cognitive capacities of decision-makers to foresee a change, structuring of an information watch adapted to the understanding of all and vigilant internal processes open to the outside. An organization that controls information, its internal and external networks, ensures vigilant 360 ° governance. The choice of "5.0" Pilotage of the territory, centered on Human beings and criteria of temporal resilience : Temporal resilience should be understood as the ability to maintain the activity of the organization, regardless of the impacts resulting from a change. This 5.0 strategic management opens up a field of possibilities and innovations in the sustainable governance of organizations.
+AU  - Schoch, Patrice
+AU  - Akdim, Hamid
+AU  - Sennouni, Amine
+AU  - Jourt-Pineau, Cécilia
+ID  - 131-130-431-314-147
+JF  - Research Papers in Economics
+L2  - https://ideas.repec.org/p/hal/journl/hal-02939458.html
+PY  - 2020
+TI  - Strategic management 5.0 and resilience of organizations [Pilotage stratégique 5.0 et résilience des organisations]
+UR  - https://lens.org/131-130-431-314-147
+ER  - 
+TY  - JOUR
+AB  - Globally cities are becoming experimental sites for new forms of robotic and automation technologies applied across a wide variety of sectors in multiple areas of economic and social life. As these...
+AU  - Macrorie, Rachel
+AU  - Marvin, Simon
+AU  - While, Aidan
+CY  - United Kingdom
+DA  - 2019/12/31
+DO  - 10.1080/02723638.2019.1698868
+EP  - 217
+ID  - 137-058-801-596-79X
+IS  - 2
+JF  - Urban Geography
+L2  - https://www.tandfonline.com/doi/full/10.1080/02723638.2019.1698868
+L1  - https://www.tandfonline.com/doi/pdf/10.1080/02723638.2019.1698868
+L2  - https://eprints.whiterose.ac.uk/154044/
+L2  - https://core.ac.uk/download/265418949.pdf
+PB  - Informa UK Limited
+PY  - 2019
+SN  - 02723638
+SN  - 19382847
+SP  - 197
+TI  - Robotics and automation in the city: a research agenda
+UR  - https://lens.org/137-058-801-596-79X
+VL  - 42
+ER  - 
+TY  - JOUR
+AB  - The swings of global trade in recent decades have been resulted from the global economic crisis and unfavorable condition of global situation. Deterioration of private demand -- as a result of economic crisis and increase of unemployment – has been the main reason of worsening global trade. This condition has, of course, affected economic performance of countries through trade channels. Furthermore, the recent trade agenda following to Trump administration has created another uncertainty to the world economy. This paper studies the impact of new trade agenda, which is represented by Trump’s plan on trade policy, to the world economy as well as to Indonesian and Japanese economy in particular. The analysis is based on computable general equilibrium of GTAP model version 6, with two scenarios: (i) Trump Trade Agenda when implementing 45 and 35 percent tariff to China and Mexico; (ii) Trade Hit List when imposing tariff to the 16 countries in the trade hit list. Impacts of both scenarios are examined in short run and long run. The results suggest that both scenarios in the short run will not create any significant effect to global economy as whole nor to Indonesian and Japan in particular. However, their impacts to the global economy, Indonesia, and Japan will be substantial in the long run. Therefore, Indonesia and Japan in particular should concern on providing sound economic policies to reduce the risk of new trade agenda to these economies in the long run. Some policy recommendation provided in this paper are: (i) Japan should focus on improving technological innovation to realize the implementation of society 5.0 and industry 4.0 as scheduled; (ii) Indonesia should facilitate more investment to its economy and provide more government investment to induce accumulation of capital stock in the future. Furthermore, efficiencies and technological adoption should also be main concern of the Indonesian government to induce productivity of the economy and help mitigate the global risks in the long run.
+AU  - Widyasanti, Amalia Adininggar
+DA  - 2017/10/31
+DO  - 10.21098/bemp.v20i2.811
+EP  - 202
+ID  - 146-117-974-697-162
+IS  - 2
+JF  - Buletin Ekonomi Moneter dan Perbankan
+L1  - https://www.gtap.agecon.purdue.edu/resources/download/8825.pdf
+L2  - https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=5435
+L2  - http://www.journalbankindonesia.org/index.php/BEMP/article/view/811
+L2  - https://core.ac.uk/download/pdf/234039028.pdf
+PB  - Bank Indonesia, Central Banking Research Department
+PY  - 2017
+SN  - 24609196
+SN  - 14108046
+SP  - 181
+TI  - THE IMPACT OF NEW TRADE AGENDA TO MACROECONOMIC PERFORMANCE OF INDONESIA AND JAPAN IN SHORT AND LONG TERM
+UR  - https://lens.org/146-117-974-697-162
+VL  - 20
+ER  - 
+TY  - JOUR
+AB  - Industry 5.0 follows the steps of the Industry 4.0 paradigm and seeks for revolutionizing the way industries operate. In fact, Industry 5.0 focuses on research and innovation to support industrial production sustainability and place the well-being of industrial workers at the center of the production process. Thus, Industry 5.0 relies on three pillars: it is human-centric, it encourages sustainability and it is aimed at developing resilience against disruptions. Such core aspects cannot be fully achieved without a transparent end-to-end human-centered traceability throughout the value chain. As a consequence, Auto-Identification (Auto-ID) technologies play a key role, since they are able to provide automated item recognition, positioning and tracking without human intervention or in cooperation with industrial operators. Although the most popular Auto-ID technologies provide a certain degree of security and productivity, there are still open challenges for future Industry 5.0 factories. This article analyzes and evaluates the Auto-ID landscape and delivers a holistic perspective and understanding of the most popular and the latest technologies, looking for solutions that cope with harsh, diverse and complex industrial scenarios. In addition, it describes a methodology for selecting Auto-ID technologies for Industry 5.0 factories. Such a methodology is applied to a specific use case of the shipbuilding industry that requires identifying the main components of a ship during its construction and repair. To validate the outcomes of the methodology, a practical evaluation of passive and active UHF RFID tags was performed in an Offshore Patrol Vessel (OPV) under construction, showing that a careful selection and evaluation of the tags enables product identification and tracking even in areas with a very high density of metallic objects. As a result, this article serves as a useful guide for industrial stakeholders, including future developers and managers that seek for deploying identification and traceability technologies in Industry 5.0 scenarios.
+AU  - Fraga-Lamas, Paula
+AU  - Varela-Barbeito, José
+AU  - Fernández-Caramés, Tiago M.
+CY  - United States
+DO  - 10.1109/access.2021.3119775
+EP  - 140730
+ID  - 152-707-246-845-89X
+JF  - IEEE Access
+L2  - https://ieeexplore.ieee.org/abstract/document/9568924/
+L2  - https://dblp.uni-trier.de/db/journals/access/access9.html#Fraga-LamasVF21
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+PY  - 2021
+SN  - 21693536
+SP  - 140700
+TI  - Next Generation Auto-Identification and Traceability Technologies for Industry 5.0: A Methodology and Practical Use Case for the Shipbuilding Industry
+UR  - https://lens.org/152-707-246-845-89X
+VL  - 9
+ER  - 
+TY  - JOUR
+AB  - Industry 5.0 follows the idea of continuous digitization and transfer to digital factory. Industries must adopt the green and digital transitions to continue to be competitive. Besides the preservation of resources, climate change, the social stability is in the focus. Industries strive to become more resilient against external disturbances, such as Covid-19 crisis. Work environment considerably affects the productivity, health and safety of workers. Monitoring of the working environment with reliable miniaturized technology can guarantee suitable working conditions. In the line with the EU Strategic Framework on Health and Safety at Work 2014-2020, one of EU-OSHA's priorities is to fortify the prevention of work-related diseases.
+AU  - Onofrejová, Daniela
+AU  - Production Quality, Kosice
+AU  - Kádárová, Jaroslava
+AU  - Janeková, Jaroslava
+CY  - Czech Republic
+DA  - 2021/10/13
+DO  - 10.17973/mmsj.2021_10_2021034
+EP  - 4846
+ID  - 154-482-530-233-434
+IS  - 4
+JF  - MM Science Journal
+L2  - http://dx.doi.org/10.17973/mmsj.2021_10_2021034
+L2  - https://doi.org/10.17973/mmsj.2021_10_2021034
+PB  - MM Publishing, s.r.o.
+PY  - 2021
+SN  - 18031269
+SN  - 18050476
+SP  - 4841
+TI  - DEVICE FOR MONITORING THE INFLUENCE OF ENVIRONMENTAL WORK CONDITIONS ON HUMAN FACTOR
+UR  - https://lens.org/154-482-530-233-434
+VL  - 2021
+ER  - 
+TY  - JOUR
+AU  - Ivanov, Dmitry
+CY  - United Kingdom
+DA  - 2022/09/12
+DO  - 10.1080/00207543.2022.2118892
+EP  - 13
+ID  - 173-989-857-453-959
+JF  - International Journal of Production Research
+PB  - Informa UK Limited
+PY  - 2022
+SN  - 00207543
+SN  - 1366588x
+SP  - 1
+TI  - The Industry 5.0 framework: viability-based integration of the resilience, sustainability, and human-centricity perspectives
+UR  - https://lens.org/173-989-857-453-959
+ER  - 
+TY  - JOUR
+AB  - <jats:p>Resilient manufacturing is a vision in the Industry 5.0 blueprint for satisfying sustainable development goals under pandemics or the rising individualized product needs. A resilient manufacturing strategy based on the Industrial Internet of Things (IIoT) networks plays an essential role in facilitating production and supply chain recovery. IIoT contains confidential data and private information, and many security issues arise through vulnerabilities in the infrastructure. The traditional centralized IIoT framework is not only of high cost for system configuration but also vulnerable to cyber-attacks and single-point failure, which is not suitable for achieving the resilient manufacturing vision in Industry 5.0. Recently, researchers are seeking a secure solution of middleware based on blockchain technology integration for decentralized IIoT, which can effectively protect the consistency, integrity, and availability of IIoT data by utilizing the auditing and tamper-proof features of the blockchain. This paper presented a review of secure blockchain middleware for decentralized IIoT towards Industry 5.0. Firstly, the security issues of conventional IIoT solutions and the advantages of blockchain middleware are analyzed. Secondly, an architecture of secure blockchain middleware for decentralized IIoT is proposed. Finally, enabling technologies, challenges, and future directions are reviewed. The innovation of this paper is to study and discuss the distributed blockchain middleware, investigating its ability to eliminate the risk of a single point of failure via a distributed feature in the context of resilient manufacturing in Industry 5.0 and to solve the security issues from traditional centralized IIoT. Also, the four-layer architecture of blockchain middleware presented based on the IIoT application framework is a novel aspect of this review. It is expected that the paper lays a solid foundation for making IIoT blockchain middleware a new venue for Industry 5.0 research.</jats:p>
+AU  - Leng, Jiewu
+AU  - Chen, Ziying
+AU  - Huang, Zhiqiang
+AU  - Zhu, Xiaofeng
+AU  - Su, Hongye
+AU  - Lin, Zisheng
+AU  - Zhang, Ding
+DA  - 2022/09/26
+DO  - 10.3390/machines10100858
+ID  - 175-332-076-134-10X
+IS  - 10
+JF  - Machines
+PB  - MDPI AG
+PY  - 2022
+SN  - 20751702
+SP  - 858
+TI  - Secure Blockchain Middleware for Decentralized IIoT towards Industry 5.0: A Review of Architecture, Enablers, Challenges, and Directions
+UR  - https://lens.org/175-332-076-134-10X
+VL  - 10
+ER  - 
+TY  - JOUR
+AB  - <jats:p>The contemporary world becomes more and more volatile and unpredictable every year (dynamic development of technology—Industry 4.0 and Industry 5.0, dynamic global changes related to the COVID-19 pandemic, great changes in consumer behavior, climate crisis, geopolitical disruptions). Individuals, companies, and supply chains face challenges emerging from economic, sociological, and political phenomena. These phenomena disrupt regular performance and limit the efficient functioning of companies and economies. Due to numerous relations and connections in the economy, disruptions in one area affect the others and spread, growing in range and severity. Hence, disruptions should be dealt with to provide continuity of supply chains and to ensure their efficient and effective performance. The study aims to identify crucial characteristics of disruptions to facilitate disruption minimization strategies. The characteristics of disruptions in supply chains are identified based on a literature review, synthesized and validated by the experts. A study is implemented to validate identified characteristics and to confront theoretical findings with the practical experience and observations of the experts. The results of the study are discussed and commented on. The conclusions from the study refer to the nature and characteristics of disruptions in the contemporary economy, equipping managers with useful knowledge when dealing with disruptions, and academics with observations that can stimulate further discussion on stability, flexibility, and resilience of companies and supply chains.</jats:p>
+AU  - Grzybowska, Katarzyna
+AU  - Stachowiak, Agnieszka
+CY  - Switzerland
+DA  - 2022/06/23
+DO  - 10.3390/en15134579
+EP  - 4579
+ID  - 189-681-888-120-997
+IS  - 13
+JF  - Energies
+PB  - MDPI AG
+PY  - 2022
+SN  - 19961073
+SP  - 4579
+TI  - Global Changes and Disruptions in Supply Chains—Preliminary Research to Sustainable Resilience of Supply Chains
+UR  - https://lens.org/189-681-888-120-997
+VL  - 15
+ER  - 
+TY  - JOUR
+AB  - <jats:p>The Digital Transformation (DX) megatrend is fundamentally disrupting and changing the nature of work, business, and industry at a rapid pace. Although the notion of DX has garnered much research interest from practitioners, scholarship on this topic is somehow lagging behind, possibly because of the lack of theoretical frameworks on DX. Recently, most Japanese firms have begun to use diverse digital technologies to sustain their competitive advantages. However, the return of investment on digital technologies has not been as high as expected for some firms. Furthermore, as the visions of Industry 5.0 describe sustainable, resilient, and human-centered future factories that will require smart and resilient capabilities both from next-generation manufacturing systems and human operators, it is necessary to design resilient human–machine collaborations within factories. To this end, this paper presents a research model between DX technologies and scientific problem-solving in terms of deduction, induction, and abduction inference structures as an approach to resilient human–machine collaborations. The purpose of this research is to analyze the difference in the utilization pattern of the digital technology of American, German, and Japanese firms based on three types of decision-making methods. Next, we apply this framework in a comparative case study of two Japanese firms and one German firm, where we find that there is a difference in DX technologies utilization among the Japanese and German firms. We assert that the utilization of IoT technology in the United States and Germany is pursuing IoT with the aim of autonomous control, whereas Japanese firms prioritize robot–human collaboration. Finally, we discuss how our findings contribute to the burgeoning field of resilient human–machine collaborations by showing the distinct roles of deduction, induction, and abduction inference structures. Furthermore, our research contributes to international comparative studies to identify the difference in national IT utilization. Lessons and implications are discussed.</jats:p>
+AU  - Park, Young Won
+AU  - Shintaku, Junjiro
+CY  - Switzerland
+DA  - 2022/08/25
+DO  - 10.3390/su141710583
+EP  - 10583
+ID  - 192-397-051-503-54X
+IS  - 17
+JF  - Sustainability
+PB  - MDPI AG
+PY  - 2022
+SN  - 20711050
+SP  - 10583
+TI  - Sustainable Human–Machine Collaborations in Digital Transformation Technologies Adoption: A Comparative Case Study of Japan and Germany
+UR  - https://lens.org/192-397-051-503-54X
+VL  - 14
+ER  - 
+TY  - JOUR
+AB  - <jats:p>The dynamic development of the fourth industrial revolution, focused on the implementation of Industry 4.0 technologies, sparked fears of governments and society regarding the dehumanization of the industry in the future. Currently, there is a need to consider sustainable development and the crucial role of man in the assumptions of industry’s future development. Concerns about the implementation of the fourth industrial revolution’s technology became the basis for building the assumptions of Industry 5.0. The article aims to identify the social and economic expectations of the development of the fourth industrial revolution in the context of the development of the sustainability, humanization, and resilience of Industry 4.0. The article presents the results of research obtained based on a critical analysis of the literature and surveys conducted among representatives of Polish society. As a result of the research, key social expectations as to the directions of development of the Industry 4.0 concept were identified. Recommendations for industry development focused on three areas of development—human-centric, sustainable, and resilient—were established. The presented research results will allow the development of an investment strategy and a government policy to support the development of industry based on the human-centric digitization of the economy.</jats:p>
+AU  - Saniuk, Sebastian
+AU  - Grabowska, Sandra
+AU  - Straka, Martin
+CY  - Switzerland
+DA  - 2022/01/26
+DO  - 10.3390/su14031391
+EP  - 1391
+ID  - 195-220-031-879-975
+IS  - 3
+JF  - Sustainability
+PB  - MDPI AG
+PY  - 2022
+SN  - 20711050
+SP  - 1391
+TI  - Identification of Social and Economic Expectations: Contextual Reasons for the Transformation Process of Industry 4.0 into the Industry 5.0 Concept
+UR  - https://lens.org/195-220-031-879-975
+VL  - 14
+ER  - 
