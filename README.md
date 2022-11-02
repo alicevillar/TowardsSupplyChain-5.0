@@ -91,13 +91,15 @@ PRIMA Flow chart of the literature review process:
   
 ![print](/Search-1/S1png.png)
 
-* Deleted words: indonesia, book, japan, basis, world, source, form, help, year, prospect, scenario, evaluation, difference, sector, overview, comparasion, case study, hand, issue, gap, study, methodology, set, place, jat, contribution, goal, characteristic, fact. 
+* S1 - Deleted words: indonesia, book, japan, basis, world, source, form, help, year, prospect, scenario, evaluation, difference, sector, overview, comparasion, case study, hand, issue, gap, study, methodology, set, place, jat, contribution, goal, characteristic, fact. 
 
 * [Search 1 - 5IR Supply Chains](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Search-1/S1png.png) 
 
 ## 4.1.2 Search 2 - 5IR Supply Chains and Resilience 
 
 ![print](/Search-2/S2-png.png)
+
+* S2 - Deleted words: apms, time, term, research, need, article, jat, analysis, 
 
 ## 4.1.3 Search 3 - 5IR Supply Chains and Sustainability 
 
