@@ -104,9 +104,10 @@ PRIMA Flow chart of the literature review process:
 ## 4.1.3 Search 3 - 5IR Supply Chains and Sustainability 
 
 ![print](/Search-3/s3-png.png)
-
+* S3 - Deleted words: conference, malasya, prospect, author, japan, survey, form, identification, firm, indonesia, world, country,  contribution, part, factor, case, year, sector, issue, fact, literature, account, gap, theme, article, end, number, study, place, next generation, set, lack.
 
 ## 4.1.4 Search 4 - 5IR Supply Chains and Human Centricity  
 
 ![print](/Search-4/S4-png.png)
 
+* S4 - Deleted words: outlook, country, form, world, japan, access, author, review, direction, next generation, contribution, lack source, field, jat, view, attention, basis, survey, scenario, limitation, case, component, set context. 
