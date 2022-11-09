@@ -98,7 +98,10 @@ A keyword had to occur at least 32 times. These value was chosen to make the num
 
 * S1 - Deleted words: indonesia, japan, science, form, author, account, scenario, world, practice, importance, vision, jat, source, end, hand, way, review, literature, case study, study, type, place, . 
 
-* [Search 1 - 5IR Supply Chains](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Search-1/S1png.png) 
+* [Search 1 - Deleted words](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Search-1/S1png.png) 
+* [Search 1 - Clusters](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Search-1/S1png.png) 
+
+
 
 ## 4.1.2 Search 2 - 5IR Supply Chains and Resilience 
 
@@ -106,18 +109,25 @@ A keyword had to occur at least 32 times. These value was chosen to make the num
 
 * S2 - Deleted words: apms, support, volume, tag, japan, lesson, scenario, fact, nature, focus, firm, expert, addition, vision, evaluation, number, solution, set, term, systematic literature review, term, literature, contribution, foundation, research, country, basis, area, gap, 
 
+* [Search 2 - Deleted words](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Search-1/S1png.png) 
+* [Search 2 - Clusters](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Search-1/S1png.png) 
+* 
 ## 4.1.3 Search 3 - 5IR Supply Chains and Sustainability 
 
 ![print](/VOSVIEWER_BibliometricMaps/S3.png)
-* S3 - Deleted words: attention, author, basis, case, characteristic, contribution, country, direction, end, expert, fact, form, impact, implication, importance, indonesia, issue, japan, jat, lack, limitation, literature, literature review, nature, number, part, place, practice, review, scenario, science, study, support, type, view, world, year, 
-* 
+* S3 - Deleted words: attention, author, basis, case, characteristic, contribution, country, direction, end, expert, fact, form, impact, implication, importance, indonesia, issue, japan, jat, lack, limitation, literature, literature review, nature, number, part, place, practice, review, scenario, science, study, support, type, view, world, year.
+
+* [Search 3 - Deleted words](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Search-1/S1png.png) 
+* [Search 3 - Clusters](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Search-1/S1png.png) 
+ 
 ## 4.1.4 Search 4 - 5IR Supply Chains and Human Centricity  
 
 ![print](/VOSVIEWER_BibliometricMaps/S4.png)
 
 * S4 - Deleted words: outlook, country, support, author, countribution, japan, world, review, form, researcher, field, view, limitation, jat, survey, literature, scenario, set, basis, year, case, context, lack.
 
-
+* [Search 4 - Deleted words](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Search-1/S1png.png) 
+* [Search 4 - Clusters](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Search-1/S1png.png) 
 
 
 ## 5. Project Files
