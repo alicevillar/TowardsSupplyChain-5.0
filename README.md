@@ -89,7 +89,7 @@ PRIMA Flow chart of the literature review process:
 ## 4.1.1 Search 1 - 5IR Supply Chains
 
   
-![print](/S1-SupplyChain50/S1-final.png)
+![print](/VOSVIEWER_BibliometricMaps/S1.png)
 
 A keyword had to occur at least 32 times. These value was chosen to make the number of words that meet the threshold below 200. 
 
@@ -99,17 +99,17 @@ A keyword had to occur at least 32 times. These value was chosen to make the num
 
 ## 4.1.2 Search 2 - 5IR Supply Chains and Resilience 
 
-![print](/S2-SupplyChain50-Resilience/S2-final.png)
+![print](/VOSVIEWER_BibliometricMaps/S2.png)
 
 * S2 - Deleted words: apms, support, volume, tag, japan, lesson, scenario, fact, nature, focus, firm, expert, addition, vision, evaluation, number, solution, set, term, systematic literature review, term, literature, contribution, foundation, research, country, basis, area, gap, 
 
 ## 4.1.3 Search 3 - 5IR Supply Chains and Sustainability 
 
-![print](/S3-SupplyChain50-Sustainability/S3-final.png)
+![print](/VOSVIEWER_BibliometricMaps/S3.png)
 * S3 - Deleted words: attention, author, basis, case, characteristic, contribution, country, direction, end, expert, fact, form, impact, implication, importance, indonesia, issue, japan, jat, lack, limitation, literature, literature review, nature, number, part, place, practice, review, scenario, science, study, support, type, view, world, year, 
 * 
 ## 4.1.4 Search 4 - 5IR Supply Chains and Human Centricity  
 
-![print](/S4-SupplyChain50-Human-Centricity/S4-final.png)
+![print](/VOSVIEWER_BibliometricMaps/S4.png)
 
 * S4 - Deleted words: outlook, country, support, author, countribution, japan, world, review, form, researcher, field, view, limitation, jat, survey, literature, scenario, set, basis, year, case, context, lack.
