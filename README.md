@@ -101,15 +101,14 @@ A keyword had to occur at least 32 times. These value was chosen to make the num
 
 ![print](/S2-SupplyChain50-Resilience/S2-final.png)
 
-* S2 - Deleted words: volume, tag, japan, set, systematic literature review, country, apms, support, fact, roadmap, nature, author, basis, firm, number, literature review, jat, evaluation, lesson, focus, expert, addition, range, literature, scenario, gap, term, case, characteristic, perspective, vision, article, area, study, research. 
+* S2 - Deleted words: apms, support, volume, tag, japan, lesson, scenario, fact, nature, focus, firm, expert, addition, vision, evaluation, number, solution, set, term, systematic literature review, term, literature, contribution, foundation, research, country, basis, area, gap, 
 
 ## 4.1.3 Search 3 - 5IR Supply Chains and Sustainability 
 
 ![print](/S3-SupplyChain50-Sustainability/S3-final.png)
-* S3 - Deleted words: conference, malasya, prospect, author, japan, survey, form, identification, firm, indonesia, world, country,  contribution, part, factor, case, year, sector, issue, fact, literature, account, gap, theme, article, end, number, study, place, next generation, set, lack.
-
+* S3 - Deleted words: c 
 ## 4.1.4 Search 4 - 5IR Supply Chains and Human Centricity  
 
 ![print](/S4-SupplyChain50-Human-Centricity/S4-final.png)
 
-* S4 - Deleted words: outlook, country, practice, form, definition, world, japan, access, author, difference, review, next generation, direction, contribution, source, field, condition, importance, researcher, jat, view, basis, scenario, literature, decision, case, limitation, set, survey. 
+* S4 - Deleted words:  
