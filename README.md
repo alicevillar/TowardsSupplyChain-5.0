@@ -147,3 +147,7 @@ A keyword had to occur at least 32 times. These value was chosen to make the num
  [A brief introduction to bibliometrix](https://www.bibliometrix.org/vignettes/Introduction_to_bibliometrix.html)
  
  
+•	S1: 32, (194 meet the threshold)  ok =>116 terms selected
+•	S2: 6, (174 meet the threshold)  ok =>104 terms selected
+•	S3: 18, (195 meet the threshold)  ok =>117 terms selected
+•	S4: 9, (185 meet the threshold)  ok => 111 terms selected
