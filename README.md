@@ -101,7 +101,7 @@ A keyword had to occur at least 32 times. These value was chosen to make the num
 
 ![print](/S2-SupplyChain50-Resilience/S2-final.png)
 
-* S2 - Deleted words: volume, tag, japan, set, systematic literature review, country, apms, support, fact, roadmap, nature, author, basis, firm, number, literature review, jat, evaluation, lesson, focus, expert, addition, range, literature, scenario, gap, term, case, characteristic, perspective, vision, article, area, studyresearch, 
+* S2 - Deleted words: volume, tag, japan, set, systematic literature review, country, apms, support, fact, roadmap, nature, author, basis, firm, number, literature review, jat, evaluation, lesson, focus, expert, addition, range, literature, scenario, gap, term, case, characteristic, perspective, vision, article, area, study, research. 
 
 ## 4.1.3 Search 3 - 5IR Supply Chains and Sustainability 
 
