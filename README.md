@@ -31,7 +31,10 @@
 
     - [10.2. API Rate Limits](#102-api-rate-limits) 
  
-- [5. References](#15-references)
+- [5. Project Files](#15-project-files)
+- [6. Tools](#15-project-files)
+- [7. References](#6-references)
+- [8. Useful Links](#15-project-files)
 
 <!-- /TOC -->
  
@@ -113,3 +116,24 @@ A keyword had to occur at least 32 times. These value was chosen to make the num
 ![print](/VOSVIEWER_BibliometricMaps/S4.png)
 
 * S4 - Deleted words: outlook, country, support, author, countribution, japan, world, review, form, researcher, field, view, limitation, jat, survey, literature, scenario, set, basis, year, case, context, lack.
+
+
+
+
+## 5. Project Files
+
+* `README.md` [README.md](https://github.com/alicevillar/sfa_api/blob/main/README.md)- Contains the description and documentation of the project. 
+* `users_controller.py` [users_controller.py](https://github.com/alicevillar/sfa_api/blob/main/controllers/users_controller.py) - defines operations/endpoints with users (user registration).
+* `picture_controller.py` [picture_controller.py](https://github.com/alicevillar/sfa_api/blob/main/controllers/picture_controller.py) - defines operations/endpoints with pictures (download and upload).
+
+
+## 6. Tools
+
+* [**Bibliometix**](https://www.bibliometrix.org/home/) - used for quantitative research in scientometrics and bibliometrics.  
+* [**VOSviewer **](https://www.vosviewer.com/) - used for constructing and visualizing bibliometric networks.
+
+ ## 7. Useful Links  
+ 
+ [A brief introduction to bibliometrix](https://www.bibliometrix.org/vignettes/Introduction_to_bibliometrix.html)
+ 
+ 
