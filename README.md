@@ -112,4 +112,4 @@ A keyword had to occur at least 32 times. These value was chosen to make the num
 
 ![print](/S4-SupplyChain50-Human-Centricity/S4-final.png)
 
-* S4 - Deleted words:  
+* S4 - Deleted words: outlook, country, support, author, countribution, japan, world, review, form, researcher, field, view, limitation, jat, survey, literature, scenario, set, basis, year, case, context.
