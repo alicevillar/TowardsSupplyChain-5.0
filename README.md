@@ -91,6 +91,8 @@ PRIMA Flow chart of the literature review process:
   
 ![print](/S1-SupplyChain50/S1-final.png)
 
+A keyword had to occur at least 32 times. These value was chosen to make the number of words that meet the threshold below 200. 
+
 * S1 - Deleted words: indonesia, japan, science, form, author, account, scenario, world, practice, importance, vision, jat, source, end, hand, way, review, literature, case study, study, type, place, . 
 
 * [Search 1 - 5IR Supply Chains](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Search-1/S1png.png) 
