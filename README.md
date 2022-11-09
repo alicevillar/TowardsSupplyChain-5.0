@@ -106,7 +106,8 @@ A keyword had to occur at least 32 times. These value was chosen to make the num
 ## 4.1.3 Search 3 - 5IR Supply Chains and Sustainability 
 
 ![print](/S3-SupplyChain50-Sustainability/S3-final.png)
-* S3 - Deleted words: c 
+* S3 - Deleted words: attention, author, basis, case, characteristic, contribution, country, direction, end, expert, fact, form, impact, implication, importance, indonesia, issue, japan, jat, lack, limitation, literature, literature review, nature, number, part, place, practice, review, scenario, science, study, support, type, view, world, year, 
+* 
 ## 4.1.4 Search 4 - 5IR Supply Chains and Human Centricity  
 
 ![print](/S4-SupplyChain50-Human-Centricity/S4-final.png)
