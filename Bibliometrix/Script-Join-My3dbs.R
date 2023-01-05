@@ -3,7 +3,7 @@ install.packages('xlsx')
 install.packages("reshape")
 install.packages("ggplot2")
 install.packages('dplyr')
-biblioshiny() 
+#biblioshiny() 
 library(reshape)
 library(bibliometrix) 
 library(readxl)  
@@ -12,16 +12,18 @@ library(tidytext)
 library(forcats)
 library(ggplot2)
 library(dplyr)
+library(tidyr)
 
-# 1 - Annual Scientific Production
-# 2 - Most Global Cited Documents
-# 3 - Trending topics 
-# 4 - Words' Frequency over Time
+# SUMMARY 
+# PLOT 1 - Annual Scientific Production
+# PLOT 2 - Most Global Cited Documents
+# PLOT 3 - Trending topics 
+# PLOT 4 - Words' Frequency over Time
 
 
 
 ################################################################################
-#                       ===>>> DATA LOADING AND CONVERTING 
+#                       ===>>> PLOT 1 - DATA LOADING AND CONVERTING 
 ################################################################################
 
 
@@ -220,11 +222,11 @@ names(TERMS) <- c("SR","text") # creating a title for the two columns (source / 
 
 TERMS$text <- gsub(" - "," ",TERMS$text) # Removing "-"
 
-# Save original multi-words keywords
+# Marking original multi-words keywords
 TERMS <- TERMS %>%
   mutate(text = tolower(gsub("[^[:alnum:][:blank:]\\-]", "", .data$text)), # getting rid of unimportant characters
          text = gsub("-", "__",.data$text)) 
- 
+
 # remove numbers - replace every digit with "" (empty)  
 TERMS <- TERMS %>% mutate(text = gsub("[[:digit:]]","",.data$text))
 
@@ -255,7 +257,7 @@ ngrams <- text %>%
     drop_na(any_of(Var)) %>% # removing any empty values (example: a paper with no abstract)
     unnest_tokens(ngram, !!Var, token = "ngrams", n = nword) # Split a column into tokens, flattening the table into one-token-per-row. Creating bigrams 
   
-# Finding ngrams starting with __ and processing
+# Finding ngrams starting with __ and processing 
 ind <- which(substr(ngrams$ngram,1,2) %in% "__")
 ngrams$ngram[ind] <- trimws(substr(ngrams$ngram[ind],3,nchar(ngrams$ngram[ind]))) 
 
@@ -270,7 +272,7 @@ ngrams <- ngrams %>%
    
 # removing stop words (generic) 
 ngrams <- ngrams %>% dplyr::filter(if_all(starts_with("word"), ~ !.x %in% stopwords)) 
-  
+
 # removing customized stop words  
 ngrams <- ngrams %>% 
     unite(ngram, paste("word",1:nword,sep=""), sep = " ") %>%
@@ -314,8 +316,10 @@ names(M)[which(names(M) %in% "text")] <- col_name
 
 # "M" Class is being redefined. It's turned into "data.frame" 
 class(M) <- c("bibliometrixDB", "data.frame")
+
 # The rows now receive the article titles 
 row.names(M) <- M$SR
+
 # The results are now in the variable values$M
 values$M=M
 
@@ -411,10 +415,8 @@ ggsave(filename = filename, plot = g, dpi = 300, height = 20, width = 16, units=
 #                        ===>>> PLOT 4 - Words' Frequency over Time
 ################################################################################
 
-############
-# Functions
-############
 
+# Function KeywordGrowth calculates yearly cumulative occurrences of top keywords 
 KeywordGrowth <- function(M, Tag = "ID", sep = ";", top=10, cdf=TRUE, remove.terms=NULL, synonyms=NULL){
   i<-which(names(M)==Tag)
   PY=as.numeric(M$PY)
@@ -428,8 +430,6 @@ KeywordGrowth <- function(M, Tag = "ID", sep = ";", top=10, cdf=TRUE, remove.ter
   ### remove terms
   terms <- data.frame(Tab=toupper(remove.terms))
   A <- anti_join(A,terms)
-  # end of block
-  
   ### Merge synonyms in the vector synonyms
   if (length(synonyms)>0 & is.character(synonyms)){
     s <- strsplit(toupper(synonyms),";")
@@ -440,12 +440,9 @@ KeywordGrowth <- function(M, Tag = "ID", sep = ";", top=10, cdf=TRUE, remove.ter
         mutate(
           # Tab = str_replace_all(Tab, paste(sold[[i]], collapse="|",sep=""),snew[i])
           Tab= str_replace_all(Tab, str_replace_all(str_replace_all(paste(sold[[i]], collapse="|",sep=""),"\\(","\\\\("),"\\)","\\\\)"),snew[i])
-          
         )
     }
   }
-  # end of block
-  
   Ymin=min(A$Y)
   Ymax=max(A$Y)
   Year=Ymin:Ymax
@@ -463,6 +460,7 @@ KeywordGrowth <- function(M, Tag = "ID", sep = ";", top=10, cdf=TRUE, remove.ter
   return(words)
 }
 
+# Auxiliary function of the KeywordGrowth function     
 trim.years<-function(w,Year,cdf){
   
   Y=as.numeric(names(w))
@@ -478,7 +476,6 @@ trim.years<-function(w,Year,cdf){
   W=data.frame(W)
   return(W)}
 
-####################
 
 # Creating another variable to preserve the original variable "Merged" 
 values <- Merged
@@ -498,7 +495,7 @@ synonyms <- trimws(syn.terms)
 
 # Counting words  
 
-cdf=TRUE # if input cumulative terms
+cdf=TRUE # cumulative terms true 
 laby="Cumulate occurrences"
 
 # Defining variables - choosing options and preparing graph 
@@ -508,92 +505,70 @@ stemming = FALSE
 verbose = FALSE
 ngrams=2
 
-# load stop words
-
+# general stop words   
 data("stopwords",envir=environment())
 data("stop_words", envir=environment(), package = "tidytext")
-stop_words <- stop_words %>% as.data.frame() # dataframe for all stop words
+stop_words <- stop_words %>% as.data.frame() # data frame for all stop words
 
-if (ngrams == 2){remove.terms <- c(remove.terms,stopwords$bigrams)}
-language = "english"
-switch(language,
-       english={stopwords=(stop_words$word)},
-       italian={stopwords=stopwords$it},
-       german={stopwords=stopwords$de},
-       french={stopwords=stopwords$fr},
-       spanish={stopwords=stopwords$es}
-)
+# English stop words
+remove.terms <- c(remove.terms,stopwords$bigrams)
+stopwords=(stop_words$word)
 stopwords <- tolower(stopwords)
 
-# remove all special characters (except "-" becoming "_")
+# remove all special characters (except "-")
 TERMS <- M %>% 
   select(.data$SR,!!Field)
 
-names(TERMS) <- c("SR","text") #SR - source / text - abstract
+# creating a title for the two columns (source / text - abstract)
+names(TERMS) <- c("SR","text")  
 
-TERMS$text <- gsub(" - "," ",TERMS$text)
+# Removing "-"
+TERMS$text <- gsub(" - "," ",TERMS$text)  
 
-# save original multi-words keywords
-
+# Marking original multi-words keywords
 TERMS <- TERMS %>%
-  mutate(text = tolower(gsub("[^[:alnum:][:blank:]\\-]", "", .data$text)),
+  mutate(text = tolower(gsub("[^[:alnum:][:blank:]\\-]", "", .data$text)), # getting rid of unimportant characters
          text = gsub("-", "__",.data$text))
 
-
-# remove numbers
-# replace every digit with "" (empty) - cleaning numbers
+# Remove numbers - replace every digit with "" (empty)  
 TERMS <- TERMS %>% mutate(text = gsub("[[:digit:]]","",.data$text))
 
-keep.terms=NULL
-# keep terms in the vector keep.terms
-if (length(keep.terms)>0 & is.character(keep.terms)){
-  keep.terms <- tolower(keep.terms)
-  if (Field %in% c("DE","ID")){
-    kt <- gsub(" ","_",keep.terms)
-    kt <- gsub("-","__",keep.terms)
-  } else {
-    kt <- gsub("-","__",keep.terms)
-  }
-  for (i in 1:length(keep.terms)){
-    TERMS <- TERMS %>%
-      mutate(text = gsub(keep.terms[i],kt[i],.data$text))
-  }
-}
-
+# Avoid run time errors (when the value is null it becomes "")
 if (is.null(remove.terms)) remove.terms <- ""
-
 
 text=TERMS # text is data frame containing the corpus data text 
 Var="text" # Var is a string indicating the column name
 nword=ngrams # nword is a integer vector indicating the ngrams to extract. I.e. nword = c(2,3)
 custom_stopwords=tolower(remove.terms)
 
+# Stopwords with paper expressions 
 stopwords <- c(stopwords,"elsevier", "springer", "wiley", "mdpi", "emerald", "originalityvalue", "designmethodologyapproach", 
                "-", " -", "-present", "-based", "-literature", "-matter")
 custom_stopngrams <- c(custom_stopwords,"rights reserved", "john wiley", "john wiley sons", "science bv", "mdpi basel", 
                        "mdpi licensee", "emerald publishing", "taylor francis", "paper proposes", 
                        "we proposes", "paper aims", "articles published", "study aims", "research limitationsimplications")
-ngram <- NULL # processing phase
+# processing phase
+ngram <- NULL  
 
-
-ngrams <- text %>% # variable ngrams is receiving the processed results
+# variable ngrams is receiving the processed results
+ngrams <- text %>%  
   drop_na(any_of(Var)) %>% # removing empty values 
   unnest_tokens(ngram, !!Var, token = "ngrams", n = nword) # Split a column into tokens, flattening the table into one-token-per-row. 
 
+# Finding ngrams starting with __ and processing
 ind <- which(substr(ngrams$ngram,1,2) %in% "__")
-
 ngrams$ngram[ind] <- trimws(substr(ngrams$ngram[ind],3,nchar(ngrams$ngram[ind])))
 
+# Separating bigrams in two columns 
 ngrams <- ngrams %>%  
   separate(.data$ngram, paste("word",1:nword,sep=""), sep = " ")
 
-## come back to the original multi-word format
-
+# come back to the original multi-word format
 ngrams <- ngrams %>%
   mutate_at(paste("word",seq(1,nword),sep=""), ~gsub("__", "-",.)) %>% 
   mutate_at(paste("word",seq(1,nword),sep=""), ~gsub("_", " ",.))
 
-
+# removing stop words (generic) 
 ngrams <- ngrams %>% dplyr::filter(if_all(starts_with("word"), ~ !.x %in% stopwords)) ## removing stop words (generic)
 
 # removing customized stop words  
@@ -614,62 +589,64 @@ if (length(synonyms)>0 & is.character(synonyms)){
   }
 }
 
+# Now the variable TERMS contains all bigrams
 TERMS<-ngrams
 
-#### 
-
+# Bigrams  
 ngrams=2
+
+# Grouping bigrams per document and separating with ";" 
 TERMS <- TERMS %>%
   dplyr::filter(!(.data$ngram %in% paste(rep("NA",ngrams),sep="",collapse=" "))) %>% 
   group_by(.data$SR) %>%
   summarize(text = paste(.data$ngram, collapse=";"))
 
-# assign the vector to the bibliographic data frame
-col_name <- paste(Field,"_TM",sep="")
-M <- M[!names(M) %in% col_name]
+# Removing column AB_TM in case it exists
+col_name <- paste(Field,"_TM",sep="") 
+M <- M[!names(M) %in% col_name] 
 
+# Joining bigrams with documents in the database
 M <- TERMS %>% 
   right_join(M, by = "SR") 
 names(M)[which(names(M) %in% "text")] <- col_name
 
-
-# display results 
-if (verbose==TRUE){ 
-  s <- tableTag(M,col_name)
-  
-  if (length(s>25)){print(s[1:25])}else{print(s)}
-}
-
+# "M" Class is being redefined. It's turned into "data.frame" 
 class(M) <- c("bibliometrixDB", "data.frame")
+
+# The rows now receive the article titles  
 row.names(M) <- M$SR
 
-#agregando uma coluna m
-
+# The results are now in the variable values$M
 values$M=M
 
+# Grouping the number of each bigrams through the years 
 KW=KeywordGrowth(values$M, Tag = "AB_TM", sep = ";", top = 5, cdf = cdf)
 
+# bringing KW to variable topKW
 topKW=KW
+# Transforming columns in rows
 DF=melt(topKW, id='Year')
-
-# Building graph
-
+# Now variable values contains all the information to build the graph 
 values=KW 
 
+# Preparing data to build the graph:
 term=names(values)[-1]
 term=rep(term,each=dim(values)[1])
 n=dim(values)[1]*(dim(values)[2]-1)
 freq=matrix(as.matrix(values[,-1]),n,1)
 
+# Choosing specifications to build the graph:
 results_to_graph_from_DF=data.frame(Year=rep(KW$Year,(dim(KW)[2]-1)),Term=term, Freq=freq, stringsAsFactors = TRUE)
 width_scale <- 2.5 * 26 / length(unique(results_to_graph_from_DF$Term))
 
+# Organizing values per year 
 Text <- paste(DF$Term," (",results_to_graph_from_DF$Year,") ",results_to_graph_from_DF$Freq, sep="")
 
+# Dimensions - Axis y and x 
 x <- c(max(results_to_graph_from_DF$Year)-0.02-diff(range(2016:2022))*0.20, max(results_to_graph_from_DF$Year)-0.02)-1
 y <- c(min(results_to_graph_from_DF$Freq),min(results_to_graph_from_DF$Freq)+diff(range(results_to_graph_from_DF$Freq))*0.20)
 
-# Setting specifications to generate the graph 
+# Plotting graph 
 g <- ggplot(results_to_graph_from_DF, aes(x=.data$Year,y=.data$Freq, group=.data$Term, color=.data$Term, text = Text))+
   geom_line()+
   labs(x = 'Year'
@@ -708,7 +685,6 @@ filename = paste("WordDynamics", Sys.Date(), ".png", sep="")
 # Setting specifications and saving the file
 ggsave(filename = filename, plot = g, dpi = 300, height = 20, width = 16, units="cm", bg="white")
 
- 
  
  
  
