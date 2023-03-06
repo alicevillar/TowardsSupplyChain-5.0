@@ -30,7 +30,7 @@
 ## 2. Tools 
 
 * [**Bibliometix**](https://www.bibliometrix.org/home/) - used for quantitative research in scientometrics and bibliometrics.  
-* [**VOSviewer **](https://www.vosviewer.com/) - used for constructing and visualizing bibliometric networks.
+* [**VOSviewer**](https://www.vosviewer.com/) - used for constructing and visualizing bibliometric networks.
 
 ## 3. VOSViewer 
 
