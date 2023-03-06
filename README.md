@@ -29,9 +29,13 @@
 
 ## 2. Tools 
 
-* [**Bibliometix**](https://www.bibliometrix.org/home/) - used for quantitative research in scientometrics and bibliometrics.  
+* [**Bibliometix**](https://www.bibliometrix.org/home/) - used for quantitative research in bibliometrics.  
 * [**VOSviewer**](https://www.vosviewer.com/) - used for constructing and visualizing bibliometric networks.
+* [**Dimensions**](https://app.dimensions.ai) -
+* [**Lens**](https://www.lens.org/) -
+* [**Scopus**](https://www.scopus.com/) -
 
+ 
 ## 3. VOSViewer 
 
 ### Keywords Co-occurrence Network
