@@ -6,15 +6,12 @@
  <br> 
  
  
->Welcome to the official repository for the paper titled "Towards Supply Chain 5.0: redesigning supply chains as resilient, sustainable, and human-centric systems in a post-pandemic world." Here, you will find all the necessary files for VOS Viewer and Bibliometrix. 
+>Welcome to the official repository for the paper titled "Towards Supply Chain 5.0: redesigning supply chains as resilient, sustainable, and human-centric systems in a post-pandemic world." This repository contains all the necessary files for VOS Viewer and Bibliometrix, including the R script to generate the graphs. 
 
-
- 
  <br> 
  
 <h1>Table of Contents</h1>
-This repository contains all the necessary files for VOS Viewer and Bibliometrix, including the R script to generate the graphs. 
-
+ 
 <!-- TOC -->
 - [1. Overview](#1-overview)
 - [2. Tools](#2-project-files)
