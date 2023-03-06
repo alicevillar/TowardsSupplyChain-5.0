@@ -29,11 +29,11 @@
 
 ## 2. Tools 
 
-* [**Bibliometix**](https://www.bibliometrix.org/home/) - used for quantitative research in bibliometrics.  
+* [**Bibliometix**](https://www.bibliometrix.org/home/) - used for multiple bibliometric analyses.
 * [**VOSviewer**](https://www.vosviewer.com/) - used for constructing and visualizing bibliometric networks.
-* [**Dimensions**](https://app.dimensions.ai) -
-* [**Lens**](https://www.lens.org/) -
-* [**Scopus**](https://www.scopus.com/) -
+* [**Dimensions**](https://app.dimensions.ai) - used to collect academic documents. 
+* [**Lens**](https://www.lens.org/) - used to collect academic documents. 
+* [**Scopus**](https://www.scopus.com/) - used to collect academic documents. 
 
  
 ## 3. VOSViewer 
