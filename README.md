@@ -23,8 +23,7 @@
  
 ## 1. Overview 
  <br> 
- We conducted a dynamic literature review method called Systematic Literature Network Analysis (SLNA), which combines a bibliographic analysis with a Systematic Literature Review (SLR). Through this mixed approach, this study examines the research landscape of Industry 5.0 Supply Chains by conducting a bibliometric analysis of 682 documents published from 2016 to 2022. We utilized VOSViewer and Bibliometrix software to construct and visualize bibliometric networks using publications taken from three databases: Dimensions, SCOPUS, and Lens. 
- 
+This study, which is based on secondary data, employed the Systematic Literature Network Analysis (SLNA) method, combining bibliographic analysis and Systematic Literature Review (SLR) to investigate the research landscape of Industry 5.0 Supply Chains. The analysis involved 682 documents published between 2016 and 2022 and utilized VOSViewer and Bibliometrix software for multiple bibliometric analyses, drawing on publications from Dimensions, SCOPUS, and Lens databases. 
 <br>  
 
 ## 2. Tools 
