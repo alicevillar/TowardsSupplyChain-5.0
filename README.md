@@ -40,7 +40,7 @@
 
 ### Keywords Co-occurrence Network
 
-#### Search 1 - 5IR Supply Chains
+### Search 1 - 5IR Supply Chains
   
 ![print](/VOSVIEWER_BibliometricMaps/S1.png)
 
