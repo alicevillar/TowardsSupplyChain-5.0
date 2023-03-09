@@ -36,30 +36,30 @@ This study, which is based on secondary data, employed the Systematic Literature
  
 ## 3. VOSViewer 
 
-### Keywords Co-occurrence Network
+In order to understand the impacts of Industry 5.0 on supply chains, we conducted a bibliometric KCN analysis using VOSviewer software to identify clusters associated with Supply Chain 5.0 (Search 1) and its three major pillars: resilience (Search 2), sustainability (Search 3), and human-centricity (Search 4). 
 
 ### Search 1 - 5IR Supply Chains
   
 A keyword had to occur at least 32 times. These value was chosen to make the number of words that meet the threshold below 200. 
 
 * [Search 1 - Clusters](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Useful%20docs/VosViewer-Clusters-keywords/VosViewer-Cluster-S1.pdf) 
-* Search 1 - Deleted words: science, form, author, account, scenario, world, practice, importance, vision, jat, source, end, hand, way, review, literature, case study, study, type, place, issue. 
+* Deleted words: science, form, author, account, scenario, world, practice, importance, vision, jat, source, end, hand, way, review, literature, case study, study, type, place, issue. 
 
 ### Search 2 - 5IR Supply Chains and Resilience 
 
 * [Search 2 - Clusters](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Useful%20docs/VosViewer-Clusters-keywords/VosViewer-Cluster-S2.pdf) 
-* Search 2 - Deleted words: apms, support, volume, tag, japan, lesson, scenario, fact, nature, focus, firm, expert, addition, vision, evaluation, number, solution, set, term, systematic literature review, term, literature, contribution, foundation, research, country, basis, area, gap, 
+* Deleted words: apms, support, volume, tag, japan, lesson, scenario, fact, nature, focus, firm, expert, addition, vision, evaluation, number, solution, set, term, systematic literature review, term, literature, contribution, foundation, research, country, basis, area, gap, 
 
 
 ### Search 3 - 5IR Supply Chains and Sustainability 
 
 * [Search 3 - Clusters](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Useful%20docs/VosViewer-Clusters-keywords/VosViewer-Cluster-S3.pdf) 
-* Search 3 - Deleted words: attention, author, basis, case, characteristic, contribution, country, direction, end, expert, fact, form, impact, implication, importance, indonesia, issue, japan, jat, lack, limitation, literature, literature review, nature, number, part, place, practice, review, scenario, science, study, support, type, view, world, year.
+* Deleted words: attention, author, basis, case, characteristic, contribution, country, direction, end, expert, fact, form, impact, implication, importance, indonesia, issue, japan, jat, lack, limitation, literature, literature review, nature, number, part, place, practice, review, scenario, science, study, support, type, view, world, year.
 
 ### Search 4 - 5IR Supply Chains and Human Centricity  
 
 * [Search 4 - Clusters](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Useful%20docs/VosViewer-Clusters-keywords/VosViewer-Cluster-S4.pdf) 
-* Search 4 - Deleted words: outlook, country, support, author, countribution, japan, world, review, form, researcher, field, view, limitation, jat, survey, literature, scenario, set, basis, year, case, context, lack.
+* Deleted words: outlook, country, support, author, countribution, japan, world, review, form, researcher, field, view, limitation, jat, survey, literature, scenario, set, basis, year, case, context, lack.
 
 ## 4. Bibliometrix 
 
