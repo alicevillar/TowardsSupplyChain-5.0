@@ -48,7 +48,7 @@ A keyword had to occur at least 32 times. These value was chosen to make the num
 * S1 - Deleted words: science, form, author, account, scenario, world, practice, importance, vision, jat, source, end, hand, way, review, literature, case study, study, type, place, issue. 
 
 * [Search 1 - Deleted words](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Search-1/S1png.png) 
-* [Search 1 - Clusters](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Search-1/S1png.png) 
+* [Search 1 - Clusters](https://github.com/alicevillar/TowardsSupplyChain-5.0/blob/main/Useful%20docs/VosViewer-Clusters-keywords/VosViewer-Cluster-S1.pdf) 
 
 ### Search 2 - 5IR Supply Chains and Resilience 
 
