@@ -6,8 +6,12 @@
  <br> 
  
  
->Welcome to the official repository for the paper titled "Towards Supply Chain 5.0: redesigning supply chains as resilient, sustainable, and human-centric systems in a post-pandemic world." This repository contains all the necessary files for VOS Viewer and Bibliometrix, including the R script to generate the graphs. 
+>Welcome to the official repository for the paper titled "Towards Supply Chain 5.0: redesigning supply chains as resilient, sustainable, and human-centric systems in a post-pandemic world", published in the Springer Nature Journal Operations Research Forum". This repository contains all the necessary files for VOS Viewer and Bibliometrix, including the R script to generate the graphs. Click  [**here**]([https://www.bibliometrix.org/home/](https://link.springer.com/article/10.1007/s43069-023-00234-3)) to read the paper
 
+* CITE:
+
+> Villar, A., Paladini, S., & Buckley, O. (2023, July). Towards Supply Chain 5.0: Redesigning Supply Chains as Resilient, Sustainable, and Human-Centric Systems in a Post-pandemic World. In > Operations Research Forum (Vol. 4, No. 3, p. 60). Cham: Springer International Publishing.
+ 
  <br> 
  
 <h1>Table of Contents</h1>
